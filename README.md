@@ -29,7 +29,7 @@ theoretical. Review papers and methodological papers are less likely
 to provoke interesting discussions. We'll conduct surveys from time to
 time to vote on the suggested readings.
 
-1. [Rinker et al. 2020] [rinker20:nee] Neanderthal introgression
+1. [Rinker et al. 2020][rinker20:nee] Neanderthal introgression
    reintroduced functional ancestral alleles lost in Eurasian
    populations.
 
@@ -40,7 +40,7 @@ time to vote on the suggested readings.
     evolutionary histories must be considered when evaluating the
     effects of introgression."
 
-1. [Ioannidis et al. 2020] [Ioannidis:n] Native American gene flow
+1. [Ioannidis et al. 2020][Ioannidis:n] Native American gene flow
   into Polynesia predating Easter Island settlement.
 
   * "Here we analyse genome-wide variation in individuals from
@@ -55,7 +55,7 @@ time to vote on the suggested readings.
     individuals and a Native American group most closely related to
     the indigenous inhabitants of present-day Colombia." 
 
-1. [Betti et al. 2020] [betti20:n] Climate shaped how Neolithic
+1. [Betti et al. 2020][betti20:n] Climate shaped how Neolithic
    farmers and European hunter-gatherers interacted after a major
    slowdown from 6,100 BCE to 4,500 BCE.
 
@@ -69,7 +69,7 @@ time to vote on the suggested readings.
     in these regions might have favoured the contact between the two
     groups."
 
-1. [Zeberg and Paabo. 2020] [zeberg20:biorxiv] The major genetic risk
+1. [Zeberg and Paabo. 2020][zeberg20:biorxiv] The major genetic risk
    factor for severe COVID-19 is inherited from Neandertals.
 
   * "A recent genetic association study (Ellinghaus et al. 2020)
@@ -82,7 +82,7 @@ time to vote on the suggested readings.
     segment of ~50 kb that is inherited from Neandertals and occurs at
     a frequency of ~30% in south Asia and ~8% in Europe."
 
-1. [Schlebusch et al. 2020] [schlebusch10:mbe] Khoe-San genomes reveal
+1. [Schlebusch et al. 2020][schlebusch10:mbe] Khoe-San genomes reveal
    unique variation and confirm the deepest population divergence in
    *Homo sapiens*.
 
@@ -93,7 +93,7 @@ time to vote on the suggested readings.
     sperm, diet, and muscle. Evidence of a decline in population size
     100,000 years ago.
 
-1. [Immel et al. 2019.] [immel19:biorxiv] Neolithic genomes reveal a
+1. [Immel et al. 2019.][immel19:biorxiv] Neolithic genomes reveal a
    distinct ancient HLA allele pool and population transformation in
    Europe.
 
@@ -103,7 +103,7 @@ time to vote on the suggested readings.
     Europeans. The authors argue that their immune systems were
     specialized for defense against viruses.
 
-1. [Zen, Huber, Davies, and Lohmuller, 2020] [zen20:biorxiv] Greater
+1. [Zen, Huber, Davies, and Lohmuller, 2020][zen20:biorxiv] Greater
    strength of selection and higher proportion of beneficial amino
    acid changing mutations in humans compared to mice and Drosophila
    melanogaster.
@@ -116,7 +116,7 @@ time to vote on the suggested readings.
    estimates, which did not correct for the sizes of the outgroup
    species and ancestral population."
 
-1. [Zeberg, et al. 2020.] [zeberg20:mbe] The Neandertal Progesterone
+1. [Zeberg, et al. 2020.][zeberg20:mbe] The Neandertal Progesterone
   Receptor.
 
   * "The gene encoding the progesterone receptor (PGR) carries
@@ -130,7 +130,7 @@ time to vote on the suggested readings.
     fertility. This may explain their high frequency in modern human
     populations."
 
-1. [Xu et al. 2017.] [xu20:mbe] Archaic hominin introgression in Africa
+1. [Xu et al. 2017.][xu20:mbe] Archaic hominin introgression in Africa
   contributes to functional salivary MUC7 genetic variation.
 
   * Unlike previous authors, these authors find no association between
@@ -140,7 +140,7 @@ time to vote on the suggested readings.
     but deeply-divergent (superarchaic?) population, which
     introgressed into the ancestors of modern Africans.
 
-1. [Hernandez, Shenk, and Perry. 2020] [hernandez20:biorxiv] Factors
+1. [Hernandez, Shenk, and Perry. 2020][hernandez20:biorxiv] Factors
    influencing taxonomic unevenness in scientific research: A
    mixed-methods case study of non-human primate genomic sequence data
    generation.
@@ -151,7 +151,7 @@ time to vote on the suggested readings.
     that there is a bias in favor of species closely-related to our
     own.
 
-1. [Wang et al. 2020.] [wang20:sa] Ancient genomes reveal complex
+1. [Wang et al. 2020.][wang20:sa] Ancient genomes reveal complex
    patterns of population movement, interaction, and replacement in
    sub-Saharan Africa.
 
@@ -165,7 +165,7 @@ time to vote on the suggested readings.
     post-dates admixture between pastoralists and foragers, suggesting
     an earlier spread of pastoralism than farming to southern Africa."
 
-1. [Hicks et al. 2018.] [hicks20:nc] Gut microbiomes of wild great apes
+1. [Hicks et al. 2018.][hicks20:nc] Gut microbiomes of wild great apes
    fluctuate seasonally in response to diet.
 
   * "Here we use 16S rRNA sequencing to characterize the microbiota of
@@ -175,7 +175,7 @@ time to vote on the suggested readings.
     show that gorilla and chimpanzee microbiomes fluctuate with
     seasonal rainfall patterns and frugivory."
 
-1. [Chakraborty et al. 2020.] [chakraborty20:biorxiv] Whole genomes
+1. [Chakraborty et al. 2020.][chakraborty20:biorxiv] Whole genomes
    reveal severe bottleneck among Asian hunter-gatherers following the
    invention of agriculture.
 
@@ -185,7 +185,7 @@ time to vote on the suggested readings.
     displacement, enslavement and disease resulted in the decimation
     of hunter-gatherer societies."
 
-1. [Cawthon et al. 2020.] [cawthon20:sr] Germline mutation rates in
+1. [Cawthon et al. 2020.][cawthon20:sr] Germline mutation rates in
    young adults predict longevity and reproductive lifespan.
 
   * "The paper is the first report showing that differences in the
@@ -204,7 +204,7 @@ time to vote on the suggested readings.
     health should begin to decline once the reproductive stage of life
     is attained."
 
-1. [Sinding et al. 2020.] [sinding20:s] Arctic-adapted dogs emerged at
+1. [Sinding et al. 2020.][sinding20:s] Arctic-adapted dogs emerged at
    the Pleistocene-Holocene transition.
 
   * "This analysis indicates that sled dogs represent an ancient
@@ -215,14 +215,14 @@ time to vote on the suggested readings.
 
 ## Schedule
 
-* May 25 [Skov et al 2020] [skov20:nature] The nature of Neanderthal
+* May 25 [Skov et al 2020][skov20:nature] The nature of Neanderthal
   introgression revealed by 27,566 Icelandic genomes. Presenter: Alan
   Rogers. 
 
-* Jun 01 [Rees, Castellano, and Andres. 2020.] [rees20:trendsingenetics] The
+* Jun 01 [Rees, Castellano, and Andres. 2020.][rees20:trendsingenetics] The
    genomics of local adaptation. Presenter: Jasmin Rees.
 
-* Jun 08 [Yu et al. 2020.] [yu20:cell] Paleolithic to Bronze Age Siberians
+* Jun 08 [Yu et al. 2020.][yu20:cell] Paleolithic to Bronze Age Siberians
    Reveal Connections with First Americans and across
    Eurasia. Presenter: Alan Rogers
 
@@ -237,7 +237,7 @@ time to vote on the suggested readings.
   * Long-range human and Y. pestis mobility across Eurasia during the
     Early Bronze Age.
 
-* Jun 15 [Amato et al. 2019] [amato19:gb] Convergence of human and Old World
+* Jun 15 [Amato et al. 2019][amato19:gb] Convergence of human and Old World
    monkey gut microbiomes demonstrates the importance of human ecology
    over phylogeny. Presenter: Katie Amato.
 
@@ -247,7 +247,7 @@ time to vote on the suggested readings.
     microbiomes of humans are also more variable than those of other
     primates.
 
-* Jun 22 [Musharoff, et al. 2019.] [musharoff19:plosg] The inference of
+* Jun 22 [Musharoff, et al. 2019.][musharoff19:plosg] The inference of
    sex-biased human demography from whole-genome data. Presenter:
    Shaila Musharoff. 
 
@@ -260,7 +260,7 @@ time to vote on the suggested readings.
     and in the ratio of male to female effective sizes. Finally, they
     apply the new method to several human populations.
 
-* Jun 29 [Rogers, Harris, and Achenbach. 2020.] [rogers20:sa]
+* Jun 29 [Rogers, Harris, and Achenbach. 2020.][rogers20:sa]
    Neanderthal-Denisovan ancestors interbred with a distantly-related
    hominin. Presenter: Alan Rogers
 
@@ -275,14 +275,14 @@ time to vote on the suggested readings.
   been separate since about 2 mya and may represent the original
   expansion of humans into Eurasia."
 
-* Jul 06 Two readings: (1) [Munung et al. 2017] [munung17:plos1] Equity in
+* Jul 06 Two readings: (1) [Munung et al. 2017][munung17:plos1] Equity in
   international health research collaborations in Africa: Perceptions
   and expectations of African researchers, and (2)
-  [Hoppe et al. 2019.] [hoppe19:sa] Topic choice contributes to the
+  [Hoppe et al. 2019.][hoppe19:sa] Topic choice contributes to the
   lower rate of NIH awards to African-American/black
   scientists. Presenter: Tina Lasisi and Tim Webster. 
 
-* Jul 13 [Henn, Steele, and Weaver. 2018.] [henn20:cogd] Clarifying
+* Jul 13 [Henn, Steele, and Weaver. 2018.][henn20:cogd] Clarifying
   distinct models of modern human origins in Africa. Presenter:
   Brenna Henn.
 
@@ -291,7 +291,7 @@ time to vote on the suggested readings.
     human genetics. We briefly outline expectations for data patterns
     under each model, with a special focus on genetic data." 
 
-* Jul 20 [Peter. 2020] [peter20:biorxiv] 100,000 years of gene flow between
+* Jul 20 [Peter. 2020][peter20:biorxiv] 100,000 years of gene flow between
    Neandertals and Denisovans in the Altai mountains. Presenter:
    Benjamin Peter.
 
@@ -301,9 +301,8 @@ time to vote on the suggested readings.
     time. But only in the Altai region of Siberia. European
     Neanderthals show no evidence of Denisovan admixture.
 
-* Jul 27 [Cole, Zhu, Mathieson, Prüfer, and Lunter. 2020.]
-  [cole20:biorxiv] Ancient admixture into Africa from the ancestors of
-  non-Africans. Presenter: Chris Cole.
+* Jul 27 [Cole et al. 2020.][cole20:biorxiv] Ancient admixture into
+  Africa from the ancestors of non-Africans. Presenter: Chris Cole. 
 
   * "Here we present SMCSMC, a Bayesian method for inference of
     time-varying population sizes and directional migration rates
