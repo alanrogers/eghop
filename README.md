@@ -23,7 +23,7 @@ yourself. We'll send you the Zoom meeting id and password.
 
 ## Suggested readings
 
-Please use [this link] [gform] to suggest articles for discussion. We
+Please use [this link][gform] to suggest articles for discussion. We
 prefer articles that present new findings--either empirical or
 theoretical. Review papers and methodological papers are less likely
 to provoke interesting discussions. We'll conduct surveys from time to
