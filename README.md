@@ -4,7 +4,7 @@
 
 Welcome to eghop, a journal club on the evolutionary genetics of
 humans and other primates. We meet by Zoom *every Monday at 1 PM
-Mountain Daylight Savings time* (UTC-6).
+[Mountain time](https://en.wikipedia.org/wiki/Mountain_Time_Zone)*.
 
 Each week, we'll discuss a recent publication or preprint on the
 evolutionary genetics of humans or other primates. Everyone is
