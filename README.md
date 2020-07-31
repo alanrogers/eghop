@@ -33,27 +33,27 @@ time to vote on the suggested readings.
    reintroduced functional ancestral alleles lost in Eurasian
    populations.
 
-  * "Our study reveals that Neanderthal introgression reintroduced
-    thousands of lost ancestral variants with gene regulatory activity
-    and that these RAs [reintroduced alleles] were more tolerated than
-    NDAs [Neanderthal-derived allelees]. Thus, RAs and their distinct
-    evolutionary histories must be considered when evaluating the
-    effects of introgression."
+    * "Our study reveals that Neanderthal introgression reintroduced
+      thousands of lost ancestral variants with gene regulatory activity
+      and that these RAs [reintroduced alleles] were more tolerated than
+      NDAs [Neanderthal-derived allelees]. Thus, RAs and their distinct
+      evolutionary histories must be considered when evaluating the
+      effects of introgression."
 
 1. [Ioannidis et al. 2020][Ioannidis:n] Native American gene flow
   into Polynesia predating Easter Island settlement.
 
-  * "Here we analyse genome-wide variation in individuals from
-    islands across Polynesia for signs of Native American admixture,
-    analysing 807 individuals from 17 island populations and 15
-    Pacific coast Native American groups. We find conclusive evidence
-    for prehistoric contact of Polynesian individuals with Native
-    American individuals (around ad 1200) contemporaneous with the
-    settlement of remote Oceania. Our analyses suggest
-    strongly that a single contact event occurred in eastern
-    Polynesia, before the settlement of Rapa Nui, between Polynesian
-    individuals and a Native American group most closely related to
-    the indigenous inhabitants of present-day Colombia." 
+    * "Here we analyse genome-wide variation in individuals from
+      islands across Polynesia for signs of Native American admixture,
+      analysing 807 individuals from 17 island populations and 15
+      Pacific coast Native American groups. We find conclusive evidence
+      for prehistoric contact of Polynesian individuals with Native
+      American individuals (around ad 1200) contemporaneous with the
+      settlement of remote Oceania. Our analyses suggest
+      strongly that a single contact event occurred in eastern
+      Polynesia, before the settlement of Rapa Nui, between Polynesian
+      individuals and a Native American group most closely related to
+      the indigenous inhabitants of present-day Colombia." 
 
 1. [Betti et al. 2020][betti20:n] Climate shaped how Neolithic
    farmers and European hunter-gatherers interacted after a major
