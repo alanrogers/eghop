@@ -1,28 +1,25 @@
-<head>
-<title>Summer Journal Club on Anthropological Genetics</title>
-</head>
-
-# Summer Journal Club on Anthropological Genetics
+# Evolutionary genetics of humans and other primates: a journal club
 
 ## Introduction
 
-Welcome to the Summer Journal Club on Anthropological Genetics. We
-meet by Zoom *every Monday at 1 PM Mountain Daylight Savings time*
-(UTC-6).
+Welcome to eghop, a journal club on the evolutionary genetics of
+humans and other primates. We meet by Zoom *every Monday at 1 PM
+Mountain Daylight Savings time* (UTC-6).
 
 Each week, we'll discuss a recent publication or preprint on the
 evolutionary genetics of humans or other primates. Everyone is
 welcome, from anywhere in the world. You need not be affiliated with
 our University, and there is no fee. Undergraduates are welcome.  The
-only prerequisite is an interest in the subject.
+only prerequisite is an interest in the subject. The journal club is
+administered by Alan Rogers and Tim Webster, of the University of
+Utah.
 
 Participants are expected to treat each other with respect. Anyone who
 fails to do this will be blocked.
 
 If you'd like to participate, send email to Alan Rogers
-(rogers@anthro.utah.edu) or Tim Webster
-(timothy.h.webster@utah.edu). Unless we know you already, tell us
-about yourself. We'll send you the Zoom meeting id and password.
+(rogers@anthro.utah.edu). Unless we know you already, tell us about
+yourself. We'll send you the Zoom meeting id and password.
 
 ## Suggested readings
 
