@@ -1,8 +1,8 @@
 <head>
-<title>Summer Journal Club on Anthropological Genetics</title>
+<title>The EGHOP Journal Club
 </head>
 
-# Evolutionary genetics of humans and other primates: a journal club
+# Evolutionary Genetics of Humans and Other Primates: A Journal Club
 
 ## Introduction
 
