@@ -1,0 +1,230 @@
+\documentclass{article}
+\begin{document}
+
+Abstr:
+
+``we assign 84.5\% of fragments to an Altai or Vindija Neanderthal
+origin and 3.3\% to Denisovan origin; 12.2\% of fragments are of
+unknown origin. We find that Icelanders have more Denisovan-like
+fragments than expected through incomplete lineage sorting. This is
+best explained by Denisovan gene flow, either into ancestors of the
+introgressing Neanderthals or directly into humans."
+
+``although the overall rate of mutation was similar in humans and
+Neanderthals during the 500 thousand years that their lineages were
+separate, there were differences in the relative frequencies of
+mutation types---perhaps due to different generation intervals for
+males and females.''
+
+1: ``We used a two-state hidden Markov model that is not conditioned
+on DAV genomes to search for archaic fragments independently in 55,132
+haploid genomes from 27,566 sequenced Icelanders that were sequenced
+to 30X and accurately phased using long-range phasing.''
+
+2: ``The 14,422,595 candidate archaic fragments correspond to 112,709
+unique fragments (based on start-end positions), have a combined
+length of 1,818 Gb and cover 1.179 Gb (48.2\%) of the callable
+genome.''
+
+2: ``Callable positions in the genome were, on average, covered by 743
+archaic fragments, corresponding to an average frequency of 1.34\% in
+the 55,132 haploid genomes analysed. These are probably
+underestimates, because our method misses archaic fragments that are
+short or not sufficiently divergent from non-archaic
+fragments. Simulations suggest a false-negative rate of 28.5\%,
+suggesting that the frequency of archaic fragments may be closer to
+1.9\%.''
+
+2--3: ``The average nucleotide diversity between overlapping archaic
+fragments, when considering DAV and DAV-linked variants is $2.00
+\times 10^{-5}$ which is similar to the heterozygosity in Neanderthals
+(Altai Neanderthal, $1.63 \times 10^{-5}$; Vindija Neanderthal, $1.71
+\times 10^{-5}$), and the Altai Neanderthal, $1.89\times 10^{-5}$).
+Some genomic regions contained highly diverse archaic fragments
+indicative of multiple introgressing haplotypes.''
+
+3: ``we find genomic regions with up to six different archaic
+haplotypes---indicating that multiple archaic individuals were
+involved in the introgression.''
+
+This must be an underestimate. If archaic DNA had been neutral, then
+\[
+6/N = 0.02 \qquad\hbox{or}\qquad N = 300
+\]
+would be an estimate of the size of the modern population that
+received archaic gene flow. But archaic DNA seems to have been
+selected against, so the initial fraction must have been larger than
+0.02. This would imply an even smaller value of $N$.
+
+3: ``Because our method of detection is not dependent on existing
+archaic genomes, we are able to detect mosaic fragments that switch
+similarity with different DAV genomes along their length We find that
+18.9\% of fragments are mosaic.''
+
+This is remarkable. Consistent with other evidence of interbreeding
+between Neanderthals and Denisovans.
+
+To exclude incomplete lineage sorting, they did simulations and
+concluded:
+
+``The observed characteristics of Denisovan-like fragments in
+Icelanders are not compatible with a simple introgression from a
+Vindija-like group without that population having had prior admixture
+with a Denisovan-like group (Supplementary Information 3.3.3 and
+Supplementary Fig. 3.1.1). An equally intriguing scenario that cannot
+be ruled out is direct admixture from a Denisovan-like group into the
+common ancestors of non-Africans.''
+
+Under the latter hypothesis, the mosaic haplotypes would have been
+formed by recombination within the modern population. This seems less
+likely to me, because only a small fraction of the modern genome is
+archaic in origin.
+
+3: ``We estimated the effective population sizes ($N_e$) of different
+archaic groups using pairwise differences between the archaic
+fragments identified in Icelanders and the high-coverage DAV genomes
+(Supplementary Information 2.7) and divergence times estimated in
+previous studies1,18 (Supplementary Information 2.7.2). We find that
+Neanderthals had a relatively small $N_e$ of 2,000--3,000 individuals,
+in agreement with previous pairwise sequential Markov chain analyses
+of Neanderthal genomes.''
+
+3: ``Our greater sample size ($n = 27,566$ compared with $n = 502$ in
+the 1000 Genomes Project) enables a more fine-scale identification of
+genomic regions with very little or no archaic introgression (archaic
+deserts). Searching for 1-Mb windows with no fragments containing DAV
+variants, we found 282 distinct archaic deserts covering 570~Mb
+(23.3\% of the callable genome) (Extended Data Fig. 5 and
+Supplementary Data 4). The X chromosome is particularly devoid of
+archaic introgression as previously reported.''
+
+Not sure I understand the following. What do the authors mean by
+``spanned?''
+
+3: ``the proportion of archaic fragments spanned by DAV-linked and DAV
+variants was higher in regions with a greater recombination rate
+(Spearman’s $\rho = 0.15$, $P = 4.4 \times 10^{-54}$) and the
+nucleotide diversity of archaic fragments was also higher in these
+regions (Spearman’s $\rho = 0.18$, $P = 1.3 \times 10^{-79}$)
+(Extended Data Fig. 6). Taken together, these observations indicate
+that non-deleterious archaic variants were more likely to be retained
+in the human gene pool when they could be uncoupled from deleterious
+archaic variants by recombination.''
+
+4: ``The most-extreme ratios are observed for C$>$G and CpG$>$T
+variants, which have the lowest (1:1) and highest (6:1)
+paternal-to-maternal age effect ratios for de novo mutations in
+contemporary humans (the mean ratio across all types is 3:1).  These
+differences are consistent with mothers having been older and fathers
+younger in the Neanderthal lineage than in the human lineage, although
+other causes cannot be ruled out.''
+
+4: ``It has been suggested29-31 that Neanderthals accumulated more
+deleterious mutations than humans because of less efficient selection
+due to a smaller $N_e$. We did not find an excess of deleterious
+variants in the archaic fragments identified in Icelanders ($\chi^2$
+test, $P=0.71$). \ldots Therefore, if introgressing Neanderthal
+fragments had more deleterious variants at the time of introgression,
+these have already been removed by purifying selection.''
+
+4: ``In the second step of filtering, we tested whether any correlated
+($r^2 > 0.2$) non-archaic variant within a 2-Mb radius better
+accounted for an association than the strongest archaic candidate
+variant. For 550 association signals, we found a non-archaic variant
+in high linkage disequilibrium with the strongest archaic
+candidate. Of these, 431 involved a non-archaic variant with a
+substantially stronger association ($>$10-fold) with the phenotype in
+question. For 33 cases, the non-archaic variant had a stronger
+association ($\leq$10-fold) with the phenotype. In another 86
+instances, archaic variants were disregarded because a highly
+correlated ($r^2 > 0.9$) non-archaic variant with a slightly stronger
+association was identified. This left 101 archaic variants.''
+
+There were several steps in this filtering process.
+
+5: ``Finally, we pruned variants that were not in high linkage
+disequilibrium with other archaic variants ($r^2 > 0.9$), leaving only
+five independent archaic variants likely to be a true source of
+phenotypic association.''
+
+6: ``We could therefore only validate the archaic origin of 3 out of
+26 previously reported association findings attributed to archaic
+variants (Supplementary Data 8). This highlights the importance of
+considering flanking non-archaic variants when assigning an archaic
+origin to a phenotype association.''
+
+6: ``To assess the genome-wide effect of archaic introgression on
+phenotype variation, we also counted the number of archaic-derived
+alleles carried by each contemporary Icelander and tested this
+polygenic score of archaic ancestry for association with each of the
+271 phenotypes. In the case of height, for example, this test would
+reveal whether the surviving fragments from archaic introgression
+resulted in taller or shorter contemporary Icelanders. After adjusting
+for the number of tests, we found no evidence for association between
+the polygenic score and any of the 271 tested phenotypes.''
+
+6: ``However, the considerable proportion of archaic fragments that
+are closer to the Denisovan genome cannot be explained by incomplete
+lineage sorting (Supplementary Information 3.3.3.1). Rather, they
+require Denisovan introgression, either directly into humans or into
+Neanderthals who later mixed with humans, which must have occurred
+soon after they migrated out of Africa, because its signal is found in
+all contemporary non-African populations from the Simons Genome
+Diversity Project.''
+
+6: ``The similar mutation rates in Neanderthals and modern humans
+imply that the apparent slowdown in the human mutation rate36 is
+unlikely to have occurred between 500,000 and 55,000 years
+ago. However, differences in the mutation spectrum of archaic and
+non-archaic fragments raise the possibility of long-term differences
+in male and female generation intervals between the species.''
+
+6: ``Finally, our most far-reaching conclusion is that archaic
+introgression has a relatively minor effect on phenotypic variation in
+contemporary humans. Given the non-random genomic distribution of
+archaic fragments in contemporary Icelanders, it follows that this
+influence must have been greater in the past.''
+
+Archaic haplotypes haplotypes are detectable only if they are long,
+which suggests that they ought to be more common in genomic regions
+with low rates of recombination. But if I understand them correctly,
+the opposite is true, presumably because selection has removed archaic
+haplotypes more effectively in regions with low rates of
+recombination. This suggests that many short archaic haplotypes have
+been missed in regions of high recombination. These may affect
+function.
+
+S37: To estimate the effective sizes of archaic populations, Skov et
+al compare the introgressed segments to high-coverage archaic
+sequences. Their inference builds on
+\[
+\hbox{number of mutations} = \mu L T
+\]
+where $\mu$ is the
+mutation rate, $L$ is the length of the introgressed fragment, and $T$
+is the time since the most recent common ancestor of moderns and the
+ancient genome. 
+
+This doesn't seem quite right. If the modern and archaic individual
+had lived at the same time, it should be
+\[
+\hbox{number of mutations} = \mu L \cdot 2T
+\]
+because mutations can occur either on the branch leading to moderns or
+on that leading to the archaic.  But this is still wrong, because
+mutations stopped accumulating on the archaic branch when the archaic
+individual died 50--100~ky ago. I would have written
+\[
+\hbox{number of mutations} = \mu L (2T - t)
+\]
+where $t$ is the age of the archaic genome. The second correction is
+minor, so their estimate of $T$ is roughly 2$\times$ too large, and
+this leads to an overestimate of $N_e$.
+
+\end{document}
+S41: ``However, N1, N2 and N3 appear to be overestimated. There are several
+factors which contribute to this. Firstly, we are only keeping SNP
+dense fragments (removing all fragments with a mean posterior
+probability less than 0.9). This means that we more likely call SNP
+dense fragments in the first place and these will have a higher
+TMRCA.'' 
