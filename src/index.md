@@ -15,7 +15,7 @@ administered by Alan Rogers and Tim Webster, of the University of
 Utah.
 
 Participants are expected to treat each other with respect. Anyone who
-fails to do this will be blocked.
+fails to do so will be blocked.
 
 If you'd like to participate, send email to Alan Rogers
 ([rogers@anthro.utah.edu](mailto:rogers@anthro.utah.edu)). Unless I
