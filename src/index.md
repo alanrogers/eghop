@@ -31,7 +31,7 @@ to provoke interesting discussions. We'll conduct surveys from time to
 time to vote on the suggested readings. To see the current list of
 suggested readings, click [here](suggested.html).
 
-## Past meetings
+## History
 
 Click [here](past.html) for a history of past journal club meetings.
 
