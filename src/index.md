@@ -18,8 +18,8 @@ Participants are expected to treat each other with respect. Anyone who
 fails to do this will be blocked.
 
 If you'd like to participate, send email to Alan Rogers
-([rogers@anthro.utah.edu](mailto:rogers@anthro.utah.edu)). Unless we
-know you already, tell us about yourself. We'll send you the Zoom
+([rogers@anthro.utah.edu](mailto:rogers@anthro.utah.edu)). Unless I
+know you already, tell me about yourself. I'll send you the Zoom
 meeting id and password.
 
 ## Suggested readings
