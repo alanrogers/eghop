@@ -6,7 +6,7 @@ Welcome to eghop, a journal club on the evolutionary genetics of
 humans and other primates. We meet by Zoom *every Monday at 1 PM
 [Mountain time](https://en.wikipedia.org/wiki/Mountain_Time_Zone)*.
 
-Each week, we'll discuss a recent publication or preprint on the
+Each week, we discuss a recent publication or preprint on the
 evolutionary genetics of humans or other primates. Everyone is
 welcome, from anywhere in the world. You need not be affiliated with
 our University, and there is no fee. Undergraduates are welcome.  The
@@ -18,8 +18,9 @@ Participants are expected to treat each other with respect. Anyone who
 fails to do this will be blocked.
 
 If you'd like to participate, send email to Alan Rogers
-(rogers@anthro.utah.edu). Unless we know you already, tell us about
-yourself. We'll send you the Zoom meeting id and password.
+([rogers@anthro.utah.edu](mailto:rogers@anthro.utah.edu)). Unless we
+know you already, tell us about yourself. We'll send you the Zoom
+meeting id and password.
 
 ## Suggested readings
 
