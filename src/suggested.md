@@ -7,7 +7,7 @@
     * "Our study reveals that Neanderthal introgression reintroduced
       thousands of lost ancestral variants with gene regulatory activity
       and that these RAs [reintroduced alleles] were more tolerated than
-      NDAs [Neanderthal-derived allelees]. Thus, RAs and their distinct
+      NDAs [Neanderthal-derived alleles]. Thus, RAs and their distinct
       evolutionary histories must be considered when evaluating the
       effects of introgression."
 
