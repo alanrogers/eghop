@@ -41,21 +41,6 @@ time to vote on the suggested readings.
       evolutionary histories must be considered when evaluating the
       effects of introgression."
 
-1. [Ioannidis et al. 2020][Ioannidis:n] Native American gene flow
-  into Polynesia predating Easter Island settlement.
-
-    * "Here we analyse genome-wide variation in individuals from
-      islands across Polynesia for signs of Native American admixture,
-      analysing 807 individuals from 17 island populations and 15
-      Pacific coast Native American groups. We find conclusive evidence
-      for prehistoric contact of Polynesian individuals with Native
-      American individuals (around ad 1200) contemporaneous with the
-      settlement of remote Oceania. Our analyses suggest
-      strongly that a single contact event occurred in eastern
-      Polynesia, before the settlement of Rapa Nui, between Polynesian
-      individuals and a Native American group most closely related to
-      the indigenous inhabitants of present-day Colombia." 
-
 1. [Betti et al. 2020][betti20:n] Climate shaped how Neolithic
    farmers and European hunter-gatherers interacted after a major
    slowdown from 6,100 BCE to 4,500 BCE.
@@ -316,7 +301,21 @@ time to vote on the suggested readings.
       and supports the existence of novel population substructure in the
       Late Middle Paleolithic."
 
-* Aug 03
+* Aug 03 [Ioannidis et al. 2020][Ioannidis:n] Native American gene flow
+  into Polynesia predating Easter Island settlement.
+
+    * "Here we analyse genome-wide variation in individuals from
+      islands across Polynesia for signs of Native American admixture,
+      analysing 807 individuals from 17 island populations and 15
+      Pacific coast Native American groups. We find conclusive evidence
+      for prehistoric contact of Polynesian individuals with Native
+      American individuals (around ad 1200) contemporaneous with the
+      settlement of remote Oceania. Our analyses suggest
+      strongly that a single contact event occurred in eastern
+      Polynesia, before the settlement of Rapa Nui, between Polynesian
+      individuals and a Native American group most closely related to
+      the indigenous inhabitants of present-day Colombia." 
+
 
 * Aug 10
 
