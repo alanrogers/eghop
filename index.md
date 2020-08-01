@@ -1,7 +1,3 @@
-<head>
-<title>The EGHOP Journal Club
-</head>
-
 # Evolutionary Genetics of Humans and Other Primates: A Journal Club
 
 ## Introduction
