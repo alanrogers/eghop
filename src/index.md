@@ -52,7 +52,8 @@ Click [here](past.html) for a history of past journal club meetings.
       Late Middle Paleolithic."
 
 * Aug 03 [Ioannidis et al. 2020][ioannidis20:n] Native American gene flow
-  into Polynesia predating Easter Island settlement.
+  into Polynesia predating Easter Island settlement. Presenter: Alan
+  Rogers.
 
     * "Here we analyse genome-wide variation in individuals from
       islands across Polynesia for signs of Native American admixture,
