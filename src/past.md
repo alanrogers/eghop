@@ -1,5 +1,7 @@
 # Past discussion topics
 
+## Summer 2020
+
 * May 25 [Skov et al 2020][skov20:nature] The nature of Neanderthal
   introgression revealed by 27,566 Icelandic genomes. Presenter: Alan
   Rogers. 
