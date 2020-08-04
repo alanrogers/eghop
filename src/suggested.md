@@ -131,16 +131,6 @@
       show that gorilla and chimpanzee microbiomes fluctuate with
       seasonal rainfall patterns and frugivory."
 
-1. [Chakraborty et al. 2020.][chakraborty20:biorxiv] Whole genomes
-   reveal severe bottleneck among Asian hunter-gatherers following the
-   invention of agriculture.
-
-    * "Using genomic data, we show that for the majority of Asian
-      hunter-gatherers, population-sizes drastically decreased following
-      the invention of agriculture. We argue that a combination of
-      displacement, enslavement and disease resulted in the decimation
-      of hunter-gatherer societies."
-
 1. [Cawthon et al. 2020.][cawthon20:sr] Germline mutation rates in
    young adults predict longevity and reproductive lifespan.
 
@@ -198,9 +188,6 @@ https://www.biorxiv.org/content/10.1101/2020.04.16.045450v1
 
 [hicks20:nc]:
 https://www.nature.com/articles/s41467-018-04204-w
-
-[chakraborty20:biorxiv]:
-https://www.biorxiv.org/content/10.1101/2020.06.25.170308v1.full?%3Fcollection=
 
 [cawthon20:sr]:
 https://www.nature.com/articles/s41598-020-66867-0

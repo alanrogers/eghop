@@ -54,7 +54,16 @@ Click [here](past.html) for a history of past journal club meetings.
       the indigenous inhabitants of present-day Colombia." 
 
 
-* Aug 10 
+* Aug 10 [Chakraborty et al. 2020.][chakraborty20:biorxiv] Whole genomes
+  reveal severe bottleneck among Asian hunter-gatherers following the
+  invention of agriculture.
+
+    * "Using genomic data, we show that for the majority of Asian
+      hunter-gatherers, population-sizes drastically decreased following
+      the invention of agriculture. We argue that a combination of
+      displacement, enslavement and disease resulted in the decimation
+      of hunter-gatherer societies."
+
 
 * Aug 17
 
@@ -78,3 +87,6 @@ https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13101
 
 [ioannidis20:n]:
 https://www.nature.com/articles/s41586-020-2487-2
+
+[chakraborty20:biorxiv]:
+https://www.biorxiv.org/content/10.1101/2020.06.25.170308v1.full?%3Fcollection=
