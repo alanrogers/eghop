@@ -1,5 +1,19 @@
 # Suggested readings
 
+1. [Wang et al. 2020.][wang20:sa] Ancient genomes reveal complex
+   patterns of population movement, interaction, and replacement in
+   sub-Saharan Africa.
+
+    * "Here, we report genome-wide data from 20 ancient sub-Saharan
+      African individuals, including the first reported ancient DNA from
+      the DRC, Uganda, and Botswana. These data demonstrate the
+      contraction of diverse, once contiguous hunter-gatherer
+      populations, and suggest the resistance to interaction with
+      incoming pastoralists of delayed-return foragers in aquatic
+      environments. ... In Botswana, we show that Bantu ancestry
+      post-dates admixture between pastoralists and foragers, suggesting
+      an earlier spread of pastoralism than farming to southern Africa."
+
 1. [Rinker et al. 2020][rinker20:nee] Neanderthal introgression
    reintroduced functional ancestral alleles lost in Eurasian
    populations.
@@ -193,3 +207,6 @@ https://www.nature.com/articles/s41598-020-66867-0
 
 [sinding20:s]:
 https://science.sciencemag.org/content/368/6498/1495.abstract
+
+[wang20:sa]:
+https://advances.sciencemag.org/content/6/24/eaaz0183.abstract

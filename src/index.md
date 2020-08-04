@@ -54,19 +54,7 @@ Click [here](past.html) for a history of past journal club meetings.
       the indigenous inhabitants of present-day Colombia." 
 
 
-* Aug 10 [Wang et al. 2020.][wang20:sa] Ancient genomes reveal complex
-   patterns of population movement, interaction, and replacement in
-   sub-Saharan Africa.
-
-    * "Here, we report genome-wide data from 20 ancient sub-Saharan
-      African individuals, including the first reported ancient DNA from
-      the DRC, Uganda, and Botswana. These data demonstrate the
-      contraction of diverse, once contiguous hunter-gatherer
-      populations, and suggest the resistance to interaction with
-      incoming pastoralists of delayed-return foragers in aquatic
-      environments. ... In Botswana, we show that Bantu ancestry
-      post-dates admixture between pastoralists and foragers, suggesting
-      an earlier spread of pastoralism than farming to southern Africa."
+* Aug 10 
 
 * Aug 17
 
@@ -90,6 +78,3 @@ https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13101
 
 [ioannidis20:n]:
 https://www.nature.com/articles/s41586-020-2487-2
-
-[wang20:sa]:
-https://advances.sciencemag.org/content/6/24/eaaz0183.abstract
