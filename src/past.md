@@ -88,6 +88,20 @@
       time. But only in the Altai region of Siberia. European
       Neanderthals show no evidence of Denisovan admixture.
 
+* Jul 27 [Cole et al. 2020.][cole20:biorxiv] Ancient admixture into
+  Africa from the ancestors of non-Africans. Presenter: Chris Cole. 
+
+    * "Here we present SMCSMC, a Bayesian method for inference of
+      time-varying population sizes and directional migration rates
+      under the coalescent-with-recombination model, to study ancient
+      demographic events. We find evidence for substantial migration
+      from the ancestors of present-day Eurasians into African groups
+      between 40 and 70 thousand years ago, predating the divergence of
+      Eastern and Western Eurasian lineages. This event accounts for
+      previously unexplained genetic diversity in African populations,
+      and supports the existence of novel population substructure in the
+      Late Middle Paleolithic."
+
 [skov20:nature]:
 https://www.nature.com/articles/s41586-020-2225-9?fbclid=IwAR2KASFusrFuvKtuHmR3gBfFX5NjzMKeJ1azAVNWQY0epnMDY8D5yNRGsMk
 
@@ -117,3 +131,6 @@ https://www.sciencedirect.com/science/article/pii/S0959437X1730182X?via%3Dihub
 
 [peter20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2020.03.13.990523v1
+
+[cole20:biorxiv]:
+https://www.biorxiv.org/content/10.1101/2020.06.01.127555v1

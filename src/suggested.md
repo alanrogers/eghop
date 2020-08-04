@@ -107,20 +107,6 @@
       that there is a bias in favor of species closely-related to our
       own.
 
-1. [Wang et al. 2020.][wang20:sa] Ancient genomes reveal complex
-   patterns of population movement, interaction, and replacement in
-   sub-Saharan Africa.
-
-    * "Here, we report genome-wide data from 20 ancient sub-Saharan
-      African individuals, including the first reported ancient DNA from
-      the DRC, Uganda, and Botswana. These data demonstrate the
-      contraction of diverse, once contiguous hunter-gatherer
-      populations, and suggest the resistance to interaction with
-      incoming pastoralists of delayed-return foragers in aquatic
-      environments. ... In Botswana, we show that Bantu ancestry
-      post-dates admixture between pastoralists and foragers, suggesting
-      an earlier spread of pastoralism than farming to southern Africa."
-
 1. [Hicks et al. 2018.][hicks20:nc] Gut microbiomes of wild great apes
    fluctuate seasonally in response to diet.
 
@@ -195,9 +181,6 @@ https://academic.oup.com/mbe/article/34/10/2704/3988100
 
 [hernandez20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2020.04.16.045450v1
-
-[wang20:sa]:
-https://advances.sciencemag.org/content/6/24/eaaz0183.abstract
 
 [hicks20:nc]:
 https://www.nature.com/articles/s41467-018-04204-w

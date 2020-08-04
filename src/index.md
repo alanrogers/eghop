@@ -37,20 +37,6 @@ Click [here](past.html) for a history of past journal club meetings.
 
 ## Schedule
 
-* Jul 27 [Cole et al. 2020.][cole20:biorxiv] Ancient admixture into
-  Africa from the ancestors of non-Africans. Presenter: Chris Cole. 
-
-    * "Here we present SMCSMC, a Bayesian method for inference of
-      time-varying population sizes and directional migration rates
-      under the coalescent-with-recombination model, to study ancient
-      demographic events. We find evidence for substantial migration
-      from the ancestors of present-day Eurasians into African groups
-      between 40 and 70 thousand years ago, predating the divergence of
-      Eastern and Western Eurasian lineages. This event accounts for
-      previously unexplained genetic diversity in African populations,
-      and supports the existence of novel population substructure in the
-      Late Middle Paleolithic."
-
 * Aug 03 [Ioannidis et al. 2020][ioannidis20:n] Native American gene flow
   into Polynesia predating Easter Island settlement. Presenter: Alan
   Rogers.
@@ -68,7 +54,19 @@ Click [here](past.html) for a history of past journal club meetings.
       the indigenous inhabitants of present-day Colombia." 
 
 
-* Aug 10
+* Aug 10 [Wang et al. 2020.][wang20:sa] Ancient genomes reveal complex
+   patterns of population movement, interaction, and replacement in
+   sub-Saharan Africa.
+
+    * "Here, we report genome-wide data from 20 ancient sub-Saharan
+      African individuals, including the first reported ancient DNA from
+      the DRC, Uganda, and Botswana. These data demonstrate the
+      contraction of diverse, once contiguous hunter-gatherer
+      populations, and suggest the resistance to interaction with
+      incoming pastoralists of delayed-return foragers in aquatic
+      environments. ... In Botswana, we show that Bantu ancestry
+      post-dates admixture between pastoralists and foragers, suggesting
+      an earlier spread of pastoralism than farming to southern Africa."
 
 * Aug 17
 
@@ -84,9 +82,6 @@ https://www.biorxiv.org/content/10.1101/2020.03.12.988956v1
 [diaz-zabala17:hb]:
 https://bioone.org/journals/Human-Biology/volume-89/issue-2/humanbiology.89.2.04/A-Mainly-Circum-Mediterranean-Origin-for-West-Eurasian-and-North/10.13110/humanbiology.89.2.04.full?casa_token=DiP_DEpUGdAAAAAA%3aVlWTGA4StwiOrFuJ7-IHHn73Q6nRxE2yHxwM8FlsvVCwdZLIzKGOjI4C53CXYFnJ8PM84j8
 
-[cole20:biorxiv]:
-https://www.biorxiv.org/content/10.1101/2020.06.01.127555v1
-
 [benntorres19:ypa]:
 https://onlinelibrary.wiley.com/doi/full/10.1002/ajpa.23979
 
@@ -96,3 +91,5 @@ https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13101
 [ioannidis20:n]:
 https://www.nature.com/articles/s41586-020-2487-2
 
+[wang20:sa]:
+https://advances.sciencemag.org/content/6/24/eaaz0183.abstract
