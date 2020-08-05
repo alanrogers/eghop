@@ -56,7 +56,7 @@ Click [here](past.html) for a history of past journal club meetings.
 
 * Aug 10 [Chakraborty et al. 2020.][chakraborty20:biorxiv] Whole genomes
   reveal severe bottleneck among Asian hunter-gatherers following the
-  invention of agriculture.
+  invention of agriculture. Presenter: Shyamalika Gopalan.
 
     * "Using genomic data, we show that for the majority of Asian
       hunter-gatherers, population-sizes drastically decreased following
