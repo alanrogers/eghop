@@ -1,5 +1,9 @@
 # Suggested readings
 
+1. [Hubisz, Williams, and Sieepel. 2020][hubisz20:plog] Mapping gene
+   flow between ancient hominins through demography-aware inference of
+   the ancestral recombination graph. 
+
 1. [Wang et al. 2020.][wang20:sa] Ancient genomes reveal complex
    patterns of population movement, interaction, and replacement in
    sub-Saharan Africa.
@@ -197,3 +201,6 @@ https://science.sciencemag.org/content/368/6498/1495.abstract
 
 [wang20:sa]:
 https://advances.sciencemag.org/content/6/24/eaaz0183.abstract
+
+[hubisz20:plog]:
+https://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1008895&fbclid=IwAR0sx3T1_92BQHUShlaY_oBV3LK3yZbgOz6K-RI6Pce4fIYUgSbaRDkemE0
