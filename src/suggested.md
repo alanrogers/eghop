@@ -1,6 +1,6 @@
 # Suggested readings
 
-1. [Hubisz, Williams, and Sieepel. 2020][hubisz20:plog] Mapping gene
+1. [Hubisz, Williams, and Siepel. 2020][hubisz20:plog] Mapping gene
    flow between ancient hominins through demography-aware inference of
    the ancestral recombination graph. 
 
