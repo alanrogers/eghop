@@ -56,17 +56,6 @@
        segment of ~50 kb that is inherited from Neandertals and occurs at
        a frequency of ~30% in south Asia and ~8% in Europe."
 
-1. [Schlebusch et al. 2020][schlebusch10:mbe] Khoe-San genomes reveal
-   unique variation and confirm the deepest population divergence in
-   *Homo sapiens*.
-
-    * Sequenced 25 full genomes from Koe-San populations in southern
-      Africa. Find that Koe-San have more genetic diversity than any
-      other population and that 25% of variants are unique to Koe-San.
-      Evidence for selection at genes involved in immunity, the brain,
-      sperm, diet, and muscle. Evidence of a decline in population size
-      100,000 years ago.
-
 1. [Immel et al. 2019.][immel19:biorxiv] Neolithic genomes reveal a
    distinct ancient HLA allele pool and population transformation in
    Europe.

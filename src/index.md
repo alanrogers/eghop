@@ -64,7 +64,16 @@ Click [here](past.html) for a history of past journal club meetings.
       displacement, enslavement and disease resulted in the decimation
       of hunter-gatherer societies."
 
-* Aug 17
+* Aug 17 [Schlebusch et al. 2020][schlebusch10:mbe] Khoe-San genomes reveal
+   unique variation and confirm the deepest population divergence in
+   *Homo sapiens*. Presenter: Carina Schlebusch.
+
+    * Sequenced 25 full genomes from Koe-San populations in southern
+      Africa. Find that Koe-San have more genetic diversity than any
+      other population and that 25% of variants are unique to Koe-San.
+      Evidence for selection at genes involved in immunity, the brain,
+      sperm, diet, and muscle. Evidence of a decline in population size
+      100,000 years ago.
 
 [gform]:
 https://docs.google.com/forms/d/e/1FAIpQLSeC-CnDFiBVV5Zw_SR-CrBe5zYSijwkM1aiIqKeDjeQX2eRQQ/viewform?usp=sf_link
