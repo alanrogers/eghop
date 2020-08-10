@@ -24,12 +24,13 @@ meeting id and password.
 
 ## Suggested readings
 
-Please use [this link][gform] to suggest articles for discussion. We
+Click [here](suggested.html) for the list of readings that have been
+suggested for future meetings of the journal club. Use
+[this link][gform] to suggest an article or preprint yourself. We
 prefer articles that present new findings--either empirical or
 theoretical. Review papers and methodological papers are less likely
 to provoke interesting discussions. We'll conduct surveys from time to
-time to vote on the suggested readings. To see the current list of
-suggested readings, click [here](suggested.html).
+time to vote on the suggested readings.
 
 ## History
 
