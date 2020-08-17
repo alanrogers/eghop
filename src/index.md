@@ -6,9 +6,10 @@ Welcome to eghop, a journal club on the evolutionary genetics of
 humans and other primates. We meet by Zoom every Monday from 1-2 PM
 [Mountain time](https://en.wikipedia.org/wiki/Mountain_Time_Zone)
 through Aug 17, 2020. After that, we'll take a two week break and then
-start again in September. Before then, we'll send a Doodle Poll to
+resume in September. Before then, we'll send a Doodle Poll to
 participants in order to choose a day and time. If you'd like to be
-part of that poll, send email to Alan Rogers at the address below.
+part of that poll but are not yet a member of the group, send email to
+Alan Rogers at the address below.
 
 Each week, we discuss a recent publication or preprint on the
 evolutionary genetics of humans or other primates. Everyone is
