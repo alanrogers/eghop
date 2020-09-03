@@ -3,13 +3,9 @@
 ## Introduction
 
 Welcome to eghop, a journal club on the evolutionary genetics of
-humans and other primates. We meet weekly by Zoom.
-<!-- [Mountain time](https://en.wikipedia.org/wiki/Mountain_Time_Zone)-->
-The summer session of the journal club has ended, and the fall session
-will start in mid September. Before then, we'll run a Doodle poll to
-find a convenient time. The poll will be announced via the eghop
-google group. If you'd like to be part of that poll but are not yet a
-member of the group, send email to Alan Rogers at the address below.
+humans and other primates. We meet weekly by Zoom. During the Fall
+semester of 2020, we'll meet at noon
+[Mountain time](https://en.wikipedia.org/wiki/Mountain_Time_Zone).
 
 Each week, we discuss a recent publication or preprint on the
 evolutionary genetics of humans or other primates. Everyone is
@@ -43,68 +39,49 @@ Click [here](past.html) for a history of past journal club meetings.
 
 ## Schedule
 
-* Aug 03 [Ioannidis et al. 2020][ioannidis20:n] Native American gene flow
-  into Polynesia predating Easter Island settlement. Presenter: Alan
-  Rogers.
+* Sep 14 [Wang et al. 2020.][wang20:sa] Ancient genomes reveal complex
+   patterns of population movement, interaction, and replacement in
+   sub-Saharan Africa.
 
-    * "Here we analyse genome-wide variation in individuals from
-      islands across Polynesia for signs of Native American admixture,
-      analysing 807 individuals from 17 island populations and 15
-      Pacific coast Native American groups. We find conclusive evidence
-      for prehistoric contact of Polynesian individuals with Native
-      American individuals (around ad 1200) contemporaneous with the
-      settlement of remote Oceania. Our analyses suggest
-      strongly that a single contact event occurred in eastern
-      Polynesia, before the settlement of Rapa Nui, between Polynesian
-      individuals and a Native American group most closely related to
-      the indigenous inhabitants of present-day Colombia." 
+    * "Here, we report genome-wide data from 20 ancient sub-Saharan
+      African individuals, including the first reported ancient DNA from
+      the DRC, Uganda, and Botswana. These data demonstrate the
+      contraction of diverse, once contiguous hunter-gatherer
+      populations, and suggest the resistance to interaction with
+      incoming pastoralists of delayed-return foragers in aquatic
+      environments. ... In Botswana, we show that Bantu ancestry
+      post-dates admixture between pastoralists and foragers, suggesting
+      an earlier spread of pastoralism than farming to southern Africa."
 
+* Sep 21
 
-* Aug 10 [Chakraborty et al. 2020.][chakraborty20:biorxiv] Whole genomes
-  reveal severe bottleneck among Asian hunter-gatherers following the
-  invention of agriculture. Presenter: Saikat Chakraborty.
+* Sep 28
 
-    * "Using genomic data, we show that for the majority of Asian
-      hunter-gatherers, population-sizes drastically decreased following
-      the invention of agriculture. We argue that a combination of
-      displacement, enslavement and disease resulted in the decimation
-      of hunter-gatherer societies."
+* Oct 05
 
-* Aug 17 [Schlebusch et al. 2020][schlebusch10:mbe] Khoe-San genomes reveal
-   unique variation and confirm the deepest population divergence in
-   *Homo sapiens*. Presenter: Carina Schlebusch.
+* Oct 12
 
-    * Sequenced 25 full genomes from Koe-San populations in southern
-      Africa. Find that Koe-San have more genetic diversity than any
-      other population and that 25% of variants are unique to Koe-San.
-      Evidence for selection at genes involved in immunity, the brain,
-      sperm, diet, and muscle. Evidence of a decline in population size
-      100,000 years ago.
+* Oct 19
+
+* Oct 26
+
+* Nov 02
+
+* Nov 09
+
+* Nov 16
+
+* Nov 23
+
+* Nov 30
+
+* Dec 07
+
+* Dec 14
 
 [gform]:
 https://docs.google.com/forms/d/e/1FAIpQLSeC-CnDFiBVV5Zw_SR-CrBe5zYSijwkM1aiIqKeDjeQX2eRQQ/viewform?usp=sf_link
 
-[johri20:genetics]:
-https://www.genetics.org/content/215/1/173
+[wang20:sa]:
+https://advances.sciencemag.org/content/6/24/eaaz0183.abstract
 
-[mafessoni20:biorxiv]:
-https://www.biorxiv.org/content/10.1101/2020.03.12.988956v1
-
-[diaz-zabala17:hb]:
-https://bioone.org/journals/Human-Biology/volume-89/issue-2/humanbiology.89.2.04/A-Mainly-Circum-Mediterranean-Origin-for-West-Eurasian-and-North/10.13110/humanbiology.89.2.04.full?casa_token=DiP_DEpUGdAAAAAA%3aVlWTGA4StwiOrFuJ7-IHHn73Q6nRxE2yHxwM8FlsvVCwdZLIzKGOjI4C53CXYFnJ8PM84j8
-
-[benntorres19:ypa]:
-https://onlinelibrary.wiley.com/doi/full/10.1002/ajpa.23979
-
-[gogarten19:mer]:
-https://onlinelibrary.wiley.com/doi/full/10.1111/1755-0998.13101
-
-[ioannidis20:n]:
-https://www.nature.com/articles/s41586-020-2487-2
-
-[chakraborty20:biorxiv]:
-https://www.biorxiv.org/content/10.1101/2020.06.25.170308v1.full?%3Fcollection=
-
-
-[schlebusch10:mbe]:
-https://academic.oup.com/mbe/article/doi/10.1093/molbev/msaa140/5874945?fbclid=IwAR3FN-AN8t7pFfz3OMNrC_22JA1bzrLPqSQswSoWqMjhZz3T_P3mwANGWTw#.XxmB88-hF6o.facebook

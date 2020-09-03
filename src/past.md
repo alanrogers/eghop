@@ -102,6 +102,44 @@
       and supports the existence of novel population substructure in the
       Late Middle Paleolithic."
 
+* Aug 03 [Ioannidis et al. 2020][ioannidis20:n] Native American gene flow
+  into Polynesia predating Easter Island settlement. Presenter: Alan
+  Rogers.
+
+    * "Here we analyse genome-wide variation in individuals from
+      islands across Polynesia for signs of Native American admixture,
+      analysing 807 individuals from 17 island populations and 15
+      Pacific coast Native American groups. We find conclusive evidence
+      for prehistoric contact of Polynesian individuals with Native
+      American individuals (around ad 1200) contemporaneous with the
+      settlement of remote Oceania. Our analyses suggest
+      strongly that a single contact event occurred in eastern
+      Polynesia, before the settlement of Rapa Nui, between Polynesian
+      individuals and a Native American group most closely related to
+      the indigenous inhabitants of present-day Colombia." 
+
+
+* Aug 10 [Chakraborty et al. 2020.][chakraborty20:biorxiv] Whole genomes
+  reveal severe bottleneck among Asian hunter-gatherers following the
+  invention of agriculture. Presenter: Saikat Chakraborty.
+
+    * "Using genomic data, we show that for the majority of Asian
+      hunter-gatherers, population-sizes drastically decreased following
+      the invention of agriculture. We argue that a combination of
+      displacement, enslavement and disease resulted in the decimation
+      of hunter-gatherer societies."
+
+* Aug 17 [Schlebusch et al. 2020][schlebusch10:mbe] Khoe-San genomes reveal
+   unique variation and confirm the deepest population divergence in
+   *Homo sapiens*. Presenter: Carina Schlebusch.
+
+    * Sequenced 25 full genomes from Koe-San populations in southern
+      Africa. Find that Koe-San have more genetic diversity than any
+      other population and that 25% of variants are unique to Koe-San.
+      Evidence for selection at genes involved in immunity, the brain,
+      sperm, diet, and muscle. Evidence of a decline in population size
+      100,000 years ago.
+
 [skov20:nature]:
 https://www.nature.com/articles/s41586-020-2225-9?fbclid=IwAR2KASFusrFuvKtuHmR3gBfFX5NjzMKeJ1azAVNWQY0epnMDY8D5yNRGsMk
 
@@ -134,3 +172,13 @@ https://www.biorxiv.org/content/10.1101/2020.03.13.990523v1
 
 [cole20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2020.06.01.127555v1
+
+[ioannidis20:n]:
+https://www.nature.com/articles/s41586-020-2487-2
+
+[chakraborty20:biorxiv]:
+https://www.biorxiv.org/content/10.1101/2020.06.25.170308v1.full?%3Fcollection=
+
+
+[schlebusch10:mbe]:
+https://academic.oup.com/mbe/article/doi/10.1093/molbev/msaa140/5874945?fbclid=IwAR3FN-AN8t7pFfz3OMNrC_22JA1bzrLPqSQswSoWqMjhZz3T_P3mwANGWTw#.XxmB88-hF6o.facebook
