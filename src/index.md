@@ -77,8 +77,6 @@ Click [here](past.html) for a history of past journal club meetings.
 
 * Dec 07
 
-* Dec 14
-
 [gform]:
 https://docs.google.com/forms/d/e/1FAIpQLSeC-CnDFiBVV5Zw_SR-CrBe5zYSijwkM1aiIqKeDjeQX2eRQQ/viewform?usp=sf_link
 
