@@ -334,6 +334,24 @@ recessive mutations and the role of standing genetic variation.
       health should begin to decline once the reproductive stage of life
       is attained."
 
+1. [Fernandes et al. 2020][fernandes20:nee] The spread of steppe and
+   Iranian-related ancestry in the islands of the western
+   Mediterranean.
+
+  * "We generated genome-wide ancient-DNA data from the Balearic
+   Islands, Sicily and Sardinia, increasing the number of individuals
+   with reported data from 5 to 66. The oldest individual from the
+   Balearic Islands (~2400 bc) carried ancestry from steppe
+   pastoralists that probably derived from west-to-east migration from
+   Iberia, although two later Balearic individuals had less ancestry
+   from steppe pastoralists. In Sicily, steppe pastoralist ancestry
+   arrived by ~2200 bc. ... Major immigration into Sardinia began in
+   the first millennium bc and, at present, no more than 56–62% of
+   Sardinian ancestry is from its first farmers. This value is lower
+   than previous estimates, highlighting that Sardinia, similar to
+   every other region in Europe, has been a stage for major movement
+   and mixtures of people." 
+
 1. [Sinding et al. 2020.][sinding20:s] Arctic-adapted dogs emerged at
    the Pleistocene-Holocene transition.
 
@@ -420,3 +438,6 @@ https://www.nature.com/articles/s41437-020-0345-5
 
 [otoole18:mbe]:
 https://academic.oup.com/mbe/article/35/1/107/4554431
+
+[fernandes20:nee]:
+https://www.nature.com/articles/s41559-020-1102-0
