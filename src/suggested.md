@@ -42,46 +42,7 @@ Anatomy Using DNA Methylation Maps.
    solely a consequence of the duplication event, but are rather a
    predictor of duplicability. These results are consistent with a
    model in which successful gene duplication events in mammals are
-   skewed toward events of minimal phenotypic impact." 
-
-1. [Porubsky et al. 2020][porubsky20:ng] Recurrent inversion toggling
-  and great ape genome evolution.
-
-  * "the X chromosome is most enriched (2.5-fold) for inversions, on
-    the basis of its size and duplication content. There is an excess
-    of differentially expressed primate genes near the breakpoints of
-    large (>100 kilobases (kb)) inversions but not smaller events. We
-    show that when great ape lineage-specific duplications emerge,
-    they preferentially (approximately 75%) occur in an inverted
-    orientation compared to that at their ancestral locus. We
-    construct megabase-pair scale haplotypes for individual
-    chromosomes and identify 23 genomic regions that have recurrently
-    toggled between a direct and an inverted state over 15 million
-    years. The direct orientation is most frequently the derived state
-    for human polymorphisms that predispose to recurrent copy number
-    variants associated with neurodevelopmental disease." 
-
-1. [Galtier and Rouselle. 2020][galtier20:g] How much does Ne vary
-  among species?
-
-  * "We assess the magnitude of variation in drift power among species
-    of animals via its effect on the mutation load. ... We estimate
-    that the power of drift varies by a factor of at least 500 between
-    large-Ne and small-Ne species of animals, i.e., an order of
-    magnitude more than the among-species variation in genetic
-    diversity."
-
-1. [Yin et al. 2020][yin20:nsr] The draft genome of mandrill
-  (Mandrillus sphinx): An Old World monkey.
-
-  * "We found that 17 genes in the mandrill that have been associated
-    with disease phenotypes in human such as Lung cancer, cranial
-    volume and asthma, barbored amino acids changing mutations. Gene
-    family analyses revealed expansion of several genes, and several
-    genes associated with stress environmental adaptation and innate
-    immunity responses exhibited signatures of positive selection. In
-    summary, we established the first draft genome of  the mandrill of
-    value for studies on evolution and human health." 
+   skewed toward events of minimal phenotypic impact."
 
 1. [Tashkent et al. 2020][tashkent20:g] Analysis of haplotypic
    variation and deletion polymorphisms point to multiple archaic
@@ -96,36 +57,9 @@ Anatomy Using DNA Methylation Maps.
     from the Altai Neanderthal lineage into the ancestors of extant
     East Asian populations."
 
-1. [He et al. 2019][he19:nc] Long-read assembly of the Chinese rhesus
-   macaque genome and identification of ape-specific structural
-   variants. 
-
-  * "We present a high-quality de novo genome assembly (rheMacS) of
-    the Chinese rhesus macaque (Macaca mulatta) using long-read
-    sequencing and multiplatform scaffolding approaches. Compared to
-    the current Indian rhesus macaque reference genome (rheMac8),
-    rheMacS increases sequence contiguity 75-fold, closing 21,940 of
-    the remaining assembly gaps (60.8 Mbp). We improve gene annotation
-    by generating more than two million full-length transcripts from
-    ten different tissues by long-read RNA sequencing. We sequence
-    resolve 53,916 structural variants (96% novel) and identify 17,000
-    ape-specific structural variants (ASSVs) based on comparison to
-    ape genomes." 
-
-1. [Byrne et al. 2020][byrne20:ng] Dutch population structure across
-  space, time and GWAS design.
-
-  * The authors use haplotype sharing to estimate the fine-grained
-    population structure and history of the Dutch population. "Despite
-    superexponential population growth, regional demographic estimates
-    reveal population crashes contemporaneous with the Black
-    Death. Within Dutch and international data, GWAS incorporating
-    fine-grained haplotypic covariates are less confounded than
-    standard methods."
-
-1. [van der Valk et al 2019][vanderValk19:mbe] The Genome of the
-   Endangered Dryas Monkey Provides New Insights into the Evolutionary
-   History of the Vervets.
+1. [van der Valk et al 2019][vanderValk19:mbe] The genome of the
+   endangered Dryas monkey provides new insights into the evolutionary
+   history of the Vervets.
 
   * "We show that the [endangered] Dryas monkey represents a sister
     lineage to the vervets (Chlorocebus sp.) and has diverged from
@@ -136,18 +70,6 @@ Anatomy Using DNA Methylation Maps.
     individual. This suggests that the current population carries
     sufficient genetic variability for long-term survival and might be
     larger than currently recognized."
-
-1. [Parreira et al. 2020][parreira20:h] Genetic consequences of social
-  structure in the golden-crowned sifaka.
-
-  * "We observe high excess of heterozygotes within
-    [social groups (SGs)]. ... While offspring are characterised by a
-    high excess of heterozygotes (FIS < 0), the reproductive pair does
-    not show dramatic departures from Hardy–Weinberg
-    expectations. Moreover, the heterozygosity excess disappears at
-    larger geographic scales (sites and forests). ... Our results
-    suggest that social structure leads to high levels of outbreeding
-    without the need for active inbreeding avoidance mechanisms."
 
 1. [Bergstrom et al. 2020][bergstrom20:s] Insights into human genetic
    variation and population history from 929 diverse genomes.
@@ -198,6 +120,98 @@ Anatomy Using DNA Methylation Maps.
     into modern humans and continue to exist in the genomes of people
     alive today." 
 
+1. [Betti et al. 2020][betti20:n] Climate shaped how Neolithic
+   farmers and European hunter-gatherers interacted after a major
+   slowdown from 6,100 BCE to 4,500 BCE.
+
+    * "We identify four axes of [European Neolithic] expansion and
+       observe a slowdown along three axes when crossing the same
+       climatic threshold. This threshold reflects the quality of the
+       growing season, suggesting that Near Eastern crops might have
+       struggled under more challenging climatic conditions. This same
+       threshold also predicts the mixing of farmers and hunter-gatherers
+       as estimated from ancient DNA, suggesting that unreliable yields
+       in these regions might have favoured the contact between the two
+       groups."
+
+1. [Porubsky et al. 2020][porubsky20:ng] Recurrent inversion toggling
+  and great ape genome evolution.
+
+  * "the X chromosome is most enriched (2.5-fold) for inversions, on
+    the basis of its size and duplication content. There is an excess
+    of differentially expressed primate genes near the breakpoints of
+    large (>100 kilobases (kb)) inversions but not smaller events. We
+    show that when great ape lineage-specific duplications emerge,
+    they preferentially (approximately 75%) occur in an inverted
+    orientation compared to that at their ancestral locus. We
+    construct megabase-pair scale haplotypes for individual
+    chromosomes and identify 23 genomic regions that have recurrently
+    toggled between a direct and an inverted state over 15 million
+    years. The direct orientation is most frequently the derived state
+    for human polymorphisms that predispose to recurrent copy number
+    variants associated with neurodevelopmental disease." 
+
+1. [Galtier and Rouselle. 2020][galtier20:g] How much does Ne vary
+  among species?
+
+  * "We assess the magnitude of variation in drift power among species
+    of animals via its effect on the mutation load. ... We estimate
+    that the power of drift varies by a factor of at least 500 between
+    large-Ne and small-Ne species of animals, i.e., an order of
+    magnitude more than the among-species variation in genetic
+    diversity."
+
+1. [Yin et al. 2020][yin20:nsr] The draft genome of mandrill
+  (Mandrillus sphinx): An Old World monkey.
+
+  * "We found that 17 genes in the mandrill that have been associated
+    with disease phenotypes in human such as Lung cancer, cranial
+    volume and asthma, barbored amino acids changing mutations. Gene
+    family analyses revealed expansion of several genes, and several
+    genes associated with stress environmental adaptation and innate
+    immunity responses exhibited signatures of positive selection. In
+    summary, we established the first draft genome of  the mandrill of
+    value for studies on evolution and human health." 
+
+1. [He et al. 2019][he19:nc] Long-read assembly of the Chinese rhesus
+   macaque genome and identification of ape-specific structural
+   variants. 
+
+  * "We present a high-quality de novo genome assembly (rheMacS) of
+    the Chinese rhesus macaque (Macaca mulatta) using long-read
+    sequencing and multiplatform scaffolding approaches. Compared to
+    the current Indian rhesus macaque reference genome (rheMac8),
+    rheMacS increases sequence contiguity 75-fold, closing 21,940 of
+    the remaining assembly gaps (60.8 Mbp). We improve gene annotation
+    by generating more than two million full-length transcripts from
+    ten different tissues by long-read RNA sequencing. We sequence
+    resolve 53,916 structural variants (96% novel) and identify 17,000
+    ape-specific structural variants (ASSVs) based on comparison to
+    ape genomes." 
+
+1. [Byrne et al. 2020][byrne20:ng] Dutch population structure across
+  space, time and GWAS design.
+
+  * The authors use haplotype sharing to estimate the fine-grained
+    population structure and history of the Dutch population. "Despite
+    superexponential population growth, regional demographic estimates
+    reveal population crashes contemporaneous with the Black
+    Death. Within Dutch and international data, GWAS incorporating
+    fine-grained haplotypic covariates are less confounded than
+    standard methods."
+
+1. [Parreira et al. 2020][parreira20:h] Genetic consequences of social
+  structure in the golden-crowned sifaka.
+
+  * "We observe high excess of heterozygotes within
+    [social groups (SGs)]. ... While offspring are characterised by a
+    high excess of heterozygotes (FIS < 0), the reproductive pair does
+    not show dramatic departures from Hardy–Weinberg
+    expectations. Moreover, the heterozygosity excess disappears at
+    larger geographic scales (sites and forests). ... Our results
+    suggest that social structure leads to high levels of outbreeding
+    without the need for active inbreeding avoidance mechanisms."
+
 1. [Rinker et al. 2020][rinker20:nee] Neanderthal introgression
    reintroduced functional ancestral alleles lost in Eurasian
    populations.
@@ -212,27 +226,13 @@ Anatomy Using DNA Methylation Maps.
 1. [Peischi and Excoffier. 2015][peischi15:me] Expansion load:
 recessive mutations and the role of standing genetic variation.
 
-  * "Expanding populations incur a mutation burden – the so‐called
+  * "Expanding populations incur a mutation burden--the so‐called
   expansion load. ... [We find that] the loss of deleterious mutations
   at some loci is compensated by an increase of their frequencies at
   other loci. The frequency of deleterious homozygotes therefore
   increases along the expansion axis, whereas the average number of
   deleterious mutations per individual remains nearly constant across
   the species range."
-
-1. [Betti et al. 2020][betti20:n] Climate shaped how Neolithic
-   farmers and European hunter-gatherers interacted after a major
-   slowdown from 6,100 BCE to 4,500 BCE.
-
-    * "We identify four axes of [European Neolithic] expansion and
-       observe a slowdown along three axes when crossing the same
-       climatic threshold. This threshold reflects the quality of the
-       growing season, suggesting that Near Eastern crops might have
-       struggled under more challenging climatic conditions. This same
-       threshold also predicts the mixing of farmers and hunter-gatherers
-       as estimated from ancient DNA, suggesting that unreliable yields
-       in these regions might have favoured the contact between the two
-       groups."
 
 1. [Zeberg and Paabo. 2020][zeberg20:biorxiv] The major genetic risk
    factor for severe COVID-19 is inherited from Neandertals.
