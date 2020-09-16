@@ -93,15 +93,6 @@ Anatomy Using DNA Methylation Maps.
    reflects a more complex history involving more than one episode of
    admixture."
 
-1. [Wang et al. 2020][wang20:plog] Tracking human population structure
-  through time from whole genome sequences.
-
-  * These authors introduce a new method for inferring the deep
-  history of population size and admixture. Using this method, they
-  "detect traces of extremely deep ancestry between some African
-  populations, with around 1% of ancestry dating to divergences older
-  than a million years ago."
-
 1. [Hubisz, Williams, and Siepel. 2020][hubisz20:plog] Mapping gene
    flow between ancient hominins through demography-aware inference of
    the ancestral recombination graph. 
@@ -134,6 +125,15 @@ Anatomy Using DNA Methylation Maps.
        in these regions might have favoured the contact between the two
        groups."
 
+1. [Wang et al. 2020][wang20:plog] Tracking human population structure
+  through time from whole genome sequences.
+
+  * These authors introduce a new method for inferring the deep
+  history of population size and admixture. Using this method, they
+  "detect traces of extremely deep ancestry between some African
+  populations, with around 1% of ancestry dating to divergences older
+  than a million years ago."
+
 1. [Porubsky et al. 2020][porubsky20:ng] Recurrent inversion toggling
   and great ape genome evolution.
 
@@ -151,15 +151,27 @@ Anatomy Using DNA Methylation Maps.
     for human polymorphisms that predispose to recurrent copy number
     variants associated with neurodevelopmental disease." 
 
-1. [Galtier and Rouselle. 2020][galtier20:g] How much does Ne vary
-  among species?
+1. [Rinker et al. 2020][rinker20:nee] Neanderthal introgression
+   reintroduced functional ancestral alleles lost in Eurasian
+   populations.
 
-  * "We assess the magnitude of variation in drift power among species
-    of animals via its effect on the mutation load. ... We estimate
-    that the power of drift varies by a factor of at least 500 between
-    large-Ne and small-Ne species of animals, i.e., an order of
-    magnitude more than the among-species variation in genetic
-    diversity."
+    * "Our study reveals that Neanderthal introgression reintroduced
+      thousands of lost ancestral variants with gene regulatory activity
+      and that these RAs [reintroduced alleles] were more tolerated than
+      NDAs [Neanderthal-derived alleles]. Thus, RAs and their distinct
+      evolutionary histories must be considered when evaluating the
+      effects of introgression."
+
+1. [Peischi and Excoffier. 2015][peischi15:me] Expansion load:
+recessive mutations and the role of standing genetic variation.
+
+  * "Expanding populations incur a mutation burden--the so‐called
+  expansion load. ... [We find that] the loss of deleterious mutations
+  at some loci is compensated by an increase of their frequencies at
+  other loci. The frequency of deleterious homozygotes therefore
+  increases along the expansion axis, whereas the average number of
+  deleterious mutations per individual remains nearly constant across
+  the species range."
 
 1. [Yin et al. 2020][yin20:nsr] The draft genome of mandrill
   (Mandrillus sphinx): An Old World monkey.
@@ -172,6 +184,16 @@ Anatomy Using DNA Methylation Maps.
     immunity responses exhibited signatures of positive selection. In
     summary, we established the first draft genome of  the mandrill of
     value for studies on evolution and human health." 
+
+1. [Galtier and Rouselle. 2020][galtier20:g] How much does Ne vary
+  among species?
+
+  * "We assess the magnitude of variation in drift power among species
+    of animals via its effect on the mutation load. ... We estimate
+    that the power of drift varies by a factor of at least 500 between
+    large-Ne and small-Ne species of animals, i.e., an order of
+    magnitude more than the among-species variation in genetic
+    diversity."
 
 1. [He et al. 2019][he19:nc] Long-read assembly of the Chinese rhesus
    macaque genome and identification of ape-specific structural
@@ -212,27 +234,6 @@ Anatomy Using DNA Methylation Maps.
     suggest that social structure leads to high levels of outbreeding
     without the need for active inbreeding avoidance mechanisms."
 
-1. [Rinker et al. 2020][rinker20:nee] Neanderthal introgression
-   reintroduced functional ancestral alleles lost in Eurasian
-   populations.
-
-    * "Our study reveals that Neanderthal introgression reintroduced
-      thousands of lost ancestral variants with gene regulatory activity
-      and that these RAs [reintroduced alleles] were more tolerated than
-      NDAs [Neanderthal-derived alleles]. Thus, RAs and their distinct
-      evolutionary histories must be considered when evaluating the
-      effects of introgression."
-
-1. [Peischi and Excoffier. 2015][peischi15:me] Expansion load:
-recessive mutations and the role of standing genetic variation.
-
-  * "Expanding populations incur a mutation burden--the so‐called
-  expansion load. ... [We find that] the loss of deleterious mutations
-  at some loci is compensated by an increase of their frequencies at
-  other loci. The frequency of deleterious homozygotes therefore
-  increases along the expansion axis, whereas the average number of
-  deleterious mutations per individual remains nearly constant across
-  the species range."
 
 1. [Zeberg and Paabo. 2020][zeberg20:biorxiv] The major genetic risk
    factor for severe COVID-19 is inherited from Neandertals.
