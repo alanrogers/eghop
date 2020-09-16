@@ -1,8 +1,202 @@
 # Suggested readings
 
+1. [Gokhman, et al. 2019][gokhman20:cell] Reconstructing Denisovan
+Anatomy Using DNA Methylation Maps.
+
+  * "We present a method for reconstructing skeletal morphology using
+  DNA methylation patterns. We suggest that Denisovans likely shared
+  with Neanderthals traits such as an elongated face and a wide
+  pelvis. We also identify Denisovan-derived changes, such as an
+  increased dental arch and lateral cranial expansion. Our predictions
+  match the only morphologically informative Denisovan bone to date,
+  as well as the Xuchang skull, which was suggested by some to be a
+  Denisovan. We conclude that DNA methylation can be used to
+  reconstruct anatomical features, including some that do not survive
+  in the fossil record."
+
+1. [O'Toole, Hurst, and McLysaught. 2018][otoole18:mbe] Faster
+  evolving primate genes are more likely to duplicate.
+
+ * "An attractive and long-standing hypothesis regarding the evolution
+   of genes after duplication posits that the duplication event
+   creates new evolutionary possibilities by releasing a copy of the
+   gene from constraint. Apparent support was found in numerous
+   analyses, particularly, the observation of higher rates of
+   evolution in duplicated as compared with singleton genes. Could it,
+   instead, be that more duplicable genes (owing to mutation,
+   fixation, or retention biases) are intrinsically faster evolving?
+   To uncouple the measurement of rates of evolution from the
+   determination of duplicate or singleton status, we measure the
+   rates of evolution in singleton genes in outgroup primate lineages
+   but classify these genes as to whether they have duplicated or not
+   in a crown group of great apes. We find that rates of evolution are
+   higher in duplicable genes prior to the duplication event. In part
+   this is owing to a negative correlation between coding sequence
+   length and rate of evolution, coupled with a bias toward smaller
+   genes being more duplicable. The effect is masked by difference in
+   expression rate between duplicable genes and
+   singletons. Additionally, in contradiction to the classical
+   assumption, we find no convincing evidence for an increase in dN/dS
+   after duplication, nor for rate asymmetry between duplicates. We
+   conclude that high rates of evolution of duplicated genes are not
+   solely a consequence of the duplication event, but are rather a
+   predictor of duplicability. These results are consistent with a
+   model in which successful gene duplication events in mammals are
+   skewed toward events of minimal phenotypic impact." 
+
+1. [Porubsky et al. 2020][porubsky20:ng] Recurrent inversion toggling
+  and great ape genome evolution.
+
+  * "the X chromosome is most enriched (2.5-fold) for inversions, on
+    the basis of its size and duplication content. There is an excess
+    of differentially expressed primate genes near the breakpoints of
+    large (>100 kilobases (kb)) inversions but not smaller events. We
+    show that when great ape lineage-specific duplications emerge,
+    they preferentially (approximately 75%) occur in an inverted
+    orientation compared to that at their ancestral locus. We
+    construct megabase-pair scale haplotypes for individual
+    chromosomes and identify 23 genomic regions that have recurrently
+    toggled between a direct and an inverted state over 15 million
+    years. The direct orientation is most frequently the derived state
+    for human polymorphisms that predispose to recurrent copy number
+    variants associated with neurodevelopmental disease." 
+
+1. [Galtier and Rouselle. 2020][galtier20:g] How much does Ne vary
+  among species?
+
+  * "We assess the magnitude of variation in drift power among species
+    of animals via its effect on the mutation load. ... We estimate
+    that the power of drift varies by a factor of at least 500 between
+    large-Ne and small-Ne species of animals, i.e., an order of
+    magnitude more than the among-species variation in genetic
+    diversity."
+
+1. [Yin et al. 2020][yin20:nsr] The draft genome of mandrill
+  (Mandrillus sphinx): An Old World monkey.
+
+  * "We found that 17 genes in the mandrill that have been associated
+    with disease phenotypes in human such as Lung cancer, cranial
+    volume and asthma, barbored amino acids changing mutations. Gene
+    family analyses revealed expansion of several genes, and several
+    genes associated with stress environmental adaptation and innate
+    immunity responses exhibited signatures of positive selection. In
+    summary, we established the first draft genome of  the mandrill of
+    value for studies on evolution and human health." 
+
+1. [Tashkent et al. 2020][tashkent20:g] Analysis of haplotypic
+   variation and deletion polymorphisms point to multiple archaic
+   introgression events, including from Altai Neanderthal lineage.
+
+  * "We present a comprehensive analysis of the unusually divergent
+    haplotypes in the Eurasian genomes and show that they can be
+    traced back to multiple introgression events. In parallel, we
+    document hundreds of deletion polymorphisms shared with
+    Neanderthals. A locus-specific analysis of one such shared
+    deletion suggests the existence of a direct introgression event
+    from the Altai Neanderthal lineage into the ancestors of extant
+    East Asian populations."
+
+1. [He et al. 2019][he19:nc] Long-read assembly of the Chinese rhesus
+   macaque genome and identification of ape-specific structural
+   variants. 
+
+  * "We present a high-quality de novo genome assembly (rheMacS) of
+    the Chinese rhesus macaque (Macaca mulatta) using long-read
+    sequencing and multiplatform scaffolding approaches. Compared to
+    the current Indian rhesus macaque reference genome (rheMac8),
+    rheMacS increases sequence contiguity 75-fold, closing 21,940 of
+    the remaining assembly gaps (60.8 Mbp). We improve gene annotation
+    by generating more than two million full-length transcripts from
+    ten different tissues by long-read RNA sequencing. We sequence
+    resolve 53,916 structural variants (96% novel) and identify 17,000
+    ape-specific structural variants (ASSVs) based on comparison to
+    ape genomes." 
+
+1. [Byrne et al. 2020][byrne20:ng] Dutch population structure across
+  space, time and GWAS design.
+
+  * The authors use haplotype sharing to estimate the fine-grained
+    population structure and history of the Dutch population. "Despite
+    superexponential population growth, regional demographic estimates
+    reveal population crashes contemporaneous with the Black
+    Death. Within Dutch and international data, GWAS incorporating
+    fine-grained haplotypic covariates are less confounded than
+    standard methods."
+
+1. [van der Valk et al 2019][vanderValk19:mbe] The Genome of the
+   Endangered Dryas Monkey Provides New Insights into the Evolutionary
+   History of the Vervets.
+
+  * "We show that the [endangered] Dryas monkey represents a sister
+    lineage to the vervets (Chlorocebus sp.) and has diverged from
+    them ∼1.4 Ma with additional bidirectional gene flow
+    ∼750,000–500,000 years ago that has likely involved the crossing
+    of the Congo River. ... We find high genetic diversity and low
+    levels of inbreeding and genetic load in the studied Dryas monkey
+    individual. This suggests that the current population carries
+    sufficient genetic variability for long-term survival and might be
+    larger than currently recognized."
+
+1. [Parreira et al. 2020][parreira20:h] Genetic consequences of social
+  structure in the golden-crowned sifaka.
+
+  * "We observe high excess of heterozygotes within
+    [social groups (SGs)]. ... While offspring are characterised by a
+    high excess of heterozygotes (FIS < 0), the reproductive pair does
+    not show dramatic departures from Hardy–Weinberg
+    expectations. Moreover, the heterozygosity excess disappears at
+    larger geographic scales (sites and forests). ... Our results
+    suggest that social structure leads to high levels of outbreeding
+    without the need for active inbreeding avoidance mechanisms."
+
+1. [Bergstrom et al. 2020][bergstrom20:s] Insights into human genetic
+   variation and population history from 929 diverse genomes.
+
+   * A study of 929 high coverage genomes from 54 diverse populations.
+   "Populations in central and southern Africa, the Americas, and
+   Oceania each harbor tens to hundreds of thousands of private,
+   common genetic variants. Most of these variants arose as new
+   mutations rather than through archaic introgression, except in
+   Oceanian populations, where many private variants derive from
+   Denisovan admixture. ... We estimate that the genetic separation
+   between present-day human populations occurred mostly within the
+   past 250,000 years. However, these early separations were gradual
+   in nature and shaped by protracted gene flow. ... Most populations
+   expanded in size over the past 10,000 years, but hunter-gatherer
+   groups did not. ... The low diversity among the Neanderthal
+   haplotypes segregating in present-day populations indicates that,
+   while more than one Neanderthal individual must have contributed
+   genetic material to modern humans, there was likely only one major
+   episode of admixture. By contrast, Denisovan haplotype diversity
+   reflects a more complex history involving more than one episode of
+   admixture."
+
+1. [Wang et al. 2020][wang20:plog] Tracking human population structure
+  through time from whole genome sequences.
+
+  * These authors introduce a new method for inferring the deep
+  history of population size and admixture. Using this method, they
+  "detect traces of extremely deep ancestry between some African
+  populations, with around 1% of ancestry dating to divergences older
+  than a million years ago."
+
 1. [Hubisz, Williams, and Siepel. 2020][hubisz20:plog] Mapping gene
    flow between ancient hominins through demography-aware inference of
    the ancestral recombination graph. 
+
+  * "We present a major extension of the ARGweaver algorithm, called
+    ARGweaver-D, which can infer local genetic relationships under a
+    user-defined demographic model that includes population splits and
+    migration events. ... We identify 3% of the Neanderthal genome
+    that is putatively introgressed from ancient humans, and estimate
+    that the gene flow occurred between 200-300kya. We find no
+    convincing evidence that negative selection acted against these
+    regions. Finally, we predict that 1% of the Denisovan genome was
+    introgressed from an unsequenced, but highly diverged, archaic
+    hominin ancestor. About 15% of these “super-archaic”
+    regions—comprising at least about 4Mb—were, in turn, introgressed
+    into modern humans and continue to exist in the genomes of people
+    alive today." 
 
 1. [Rinker et al. 2020][rinker20:nee] Neanderthal introgression
    reintroduced functional ancestral alleles lost in Eurasian
@@ -14,6 +208,17 @@
       NDAs [Neanderthal-derived alleles]. Thus, RAs and their distinct
       evolutionary histories must be considered when evaluating the
       effects of introgression."
+
+1. [Peischi and Excoffier. 2015][peischi15:me] Expansion load:
+recessive mutations and the role of standing genetic variation.
+
+  * "Expanding populations incur a mutation burden – the so‐called
+  expansion load. ... [We find that] the loss of deleterious mutations
+  at some loci is compensated by an increase of their frequencies at
+  other loci. The frequency of deleterious homozygotes therefore
+  increases along the expansion axis, whereas the average number of
+  deleterious mutations per individual remains nearly constant across
+  the species range."
 
 1. [Betti et al. 2020][betti20:n] Climate shaped how Neolithic
    farmers and European hunter-gatherers interacted after a major
@@ -177,4 +382,41 @@ https://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1008895
 [mafessoni20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2020.03.12.988956v1
 
+[bergstrom20:s]:
+https://science.sciencemag.org/content/367/6484/eaay5012.abstract?casa_token=8u4TIciulh8AAAAA:t_v5lDpHNE9v9sliSlZhzfwuvvg1bhLyyGkBrV7fJl-tbYgtgI0CAEVrqJWSPhBsjydI6PqXBVQR
 
+[tashkent20:g]:
+https://www.genetics.org/content/215/2/497.abstract
+
+[wang20:plog]:
+https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008552
+
+[gokhman20:cell]:
+https://www.sciencedirect.com/science/article/pii/S0092867419309547?casa_token=ELt7WwOV6moAAAAA:a_t_5Kb2N51gqrDjr3qKtLkCYyc1OVzIybi78NBVrbY0K9c0xHB8kJQW8sLF5c0wopUCcSo-yg
+
+[galtier20:g]:
+https://www.genetics.org/content/early/2020/08/24/genetics.120.303622 
+
+[byrne20:ng]:
+https://www.nature.com/articles/s41467-020-18418-4
+
+[peischi15:me]:
+https://onlinelibrary.wiley.com/doi/full/10.1111/mec.13154?casa_token=z0DDFCt5kyEAAAAA%3AQGtGPXOttZnSydrX6XabMB5ODbnggn7PCrkOT1wItwcMDo82iv5tyfXfYStld5oL5FhgKw4EZENa
+
+[porubsky20:ng]:
+https://www.nature.com/articles/s41588-020-0646-x
+
+[yin20:nsr]:
+https://www.nature.com/articles/s41598-020-59110-3
+
+[he19:nc]:
+https://www.nature.com/articles/s41467-019-12174-w
+
+[vanderValk19:mbe]:
+https://academic.oup.com/mbe/article/37/1/183/5570178
+
+[parreira20:h]:
+https://www.nature.com/articles/s41437-020-0345-5
+
+[otoole18:mbe]:
+https://academic.oup.com/mbe/article/35/1/107/4554431

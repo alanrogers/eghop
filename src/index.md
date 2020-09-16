@@ -37,6 +37,12 @@ time to vote on the suggested readings.
 
 Click [here](past.html) for a history of past journal club meetings.
 
+## Labs recruiting graduate students
+
+Click [here](gradop.html) for a list of labs recruiting graduate
+students with an interest in the evolutionary genetics of humans and
+other primates.
+
 ## Schedule
 
 * Sep 14 [Wang et al. 2020.][wang20:sa] Ancient genomes reveal complex
