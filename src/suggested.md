@@ -211,6 +211,29 @@ recessive mutations and the role of standing genetic variation.
     ape-specific structural variants (ASSVs) based on comparison to
     ape genomes." 
 
+1. [Immel et al. 2019.][immel19:biorxiv] Neolithic genomes reveal a
+   distinct ancient HLA allele pool and population transformation in
+   Europe.
+
+    * Studied 42 late-Neolithic genomes from the Wartenberg culture of
+      Europe. A high percentage--40%--of their ancestry was from hunter
+      gatherers, and their HLA alleles were unlike those of modern
+      Europeans. The authors argue that their immune systems were
+      specialized for defense against viruses.
+
+1. [Zen, Huber, Davies, and Lohmuller, 2020][zen20:biorxiv] Greater
+   strength of selection and higher proportion of beneficial amino
+   acid changing mutations in humans compared to mice and Drosophila
+   melanogaster.
+
+    * "We use improved modeling of weakly deleterious mutations and the
+      demographic history of the outgroup species and ancestral
+      population and estimate that at least 20% of nonsynonymous
+      substitutions between humans and an outgroup species were fixed by
+      positive selection. This estimate is much higher than previous
+      estimates, which did not correct for the sizes of the outgroup
+      species and ancestral population."
+
 1. [Byrne et al. 2020][byrne20:ng] Dutch population structure across
   space, time and GWAS design.
 
@@ -234,7 +257,6 @@ recessive mutations and the role of standing genetic variation.
     suggest that social structure leads to high levels of outbreeding
     without the need for active inbreeding avoidance mechanisms."
 
-
 1. [Zeberg and Paabo. 2020][zeberg20:biorxiv] The major genetic risk
    factor for severe COVID-19 is inherited from Neandertals.
 
@@ -247,29 +269,6 @@ recessive mutations and the role of standing genetic variation.
        Initiative). Here, we show that the risk is conferred by a genomic
        segment of ~50 kb that is inherited from Neandertals and occurs at
        a frequency of ~30% in south Asia and ~8% in Europe."
-
-1. [Immel et al. 2019.][immel19:biorxiv] Neolithic genomes reveal a
-   distinct ancient HLA allele pool and population transformation in
-   Europe.
-
-    * Studied 42 late-Neolithic genomes from the Wartenberg culture of
-      Europe. A high percentage--40%--of their ancestry was from hunter
-      gatherers, and their HLA alleles were unlike those of modern
-      Europeans. The authors argue that their immune systems were
-      specialized for defense against viruses.
-
-1. [Zen, Huber, Davies, and Lohmuller, 2020][zen20:biorxiv] Greater
-   strength of selection and higher proportion of beneficial amino
-   acid changing mutations in humans compared to mice and Drosophila
-   melanogaster.
-
-    * "We use improved modeling of weakly deleterious mutations and the
-      demographic history of the outgroup species and ancestral
-      population and estimate that at least 20% of nonsynonymous
-      substitutions between humans and an outgroup species were fixed by
-      positive selection. This estimate is much higher than previous
-      estimates, which did not correct for the sizes of the outgroup
-      species and ancestral population."
 
 1. [Zeberg, et al. 2020.][zeberg20:mbe] The Neandertal Progesterone
   Receptor.
