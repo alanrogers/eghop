@@ -11,7 +11,14 @@ own lab onto this list, send email to <rogers@anthro.utah.edu>.
    origins of malaria parasites. All positions will receive a stipend
    for the full PhD based on a mix of grant-funded RAships and
    potential TAships. More information available
-   [here](https://www.goldberglab.org/join). 
+   [here](https://www.goldberglab.org/join).
+
+1. Austin Reynolds <austin_reynolds@baylor.edu>. Our lab uses genomic
+   data from ancient and contemporary communities to answer questions
+   about human population history and disease risk. Students will
+   receive a stipend for the duration of their PhD through a
+   combination of university funded RA- and TA-ships. Visit the lab
+   [website](reynoldslab.org) for more information.
 
 1. Alan Rogers <rogers@anthro.utah.edu>. We study human population
    genetics, with emphases on population history and adaptive
