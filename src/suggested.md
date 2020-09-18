@@ -1,19 +1,5 @@
 # Suggested readings
 
-1. [Gokhman, et al. 2019][gokhman20:cell] Reconstructing Denisovan
-Anatomy Using DNA Methylation Maps.
-
-  * "We present a method for reconstructing skeletal morphology using
-  DNA methylation patterns. We suggest that Denisovans likely shared
-  with Neanderthals traits such as an elongated face and a wide
-  pelvis. We also identify Denisovan-derived changes, such as an
-  increased dental arch and lateral cranial expansion. Our predictions
-  match the only morphologically informative Denisovan bone to date,
-  as well as the Xuchang skull, which was suggested by some to be a
-  Denisovan. We conclude that DNA methylation can be used to
-  reconstruct anatomical features, including some that do not survive
-  in the fossil record."
-
 1. [O'Toole, Hurst, and McLysaught. 2018][otoole18:mbe] Faster
   evolving primate genes are more likely to duplicate.
 

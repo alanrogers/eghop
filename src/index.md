@@ -47,7 +47,7 @@ other primates.
 
 * Sep 14 [Wang et al. 2020.][wang20:sa] Ancient genomes reveal complex
    patterns of population movement, interaction, and replacement in
-   sub-Saharan Africa.
+   sub-Saharan Africa. Presenter: Ke Wang and Stephan Schiffels.
 
     * "Here, we report genome-wide data from 20 ancient sub-Saharan
       African individuals, including the first reported ancient DNA from
@@ -59,7 +59,19 @@ other primates.
       post-dates admixture between pastoralists and foragers, suggesting
       an earlier spread of pastoralism than farming to southern Africa."
 
-* Sep 21
+* Sep 21 [Gokhman, et al. 2019][gokhman20:cell] Reconstructing Denisovan
+Anatomy Using DNA Methylation Maps. Presenter: David Gokhman.
+
+  * "We present a method for reconstructing skeletal morphology using
+  DNA methylation patterns. We suggest that Denisovans likely shared
+  with Neanderthals traits such as an elongated face and a wide
+  pelvis. We also identify Denisovan-derived changes, such as an
+  increased dental arch and lateral cranial expansion. Our predictions
+  match the only morphologically informative Denisovan bone to date,
+  as well as the Xuchang skull, which was suggested by some to be a
+  Denisovan. We conclude that DNA methylation can be used to
+  reconstruct anatomical features, including some that do not survive
+  in the fossil record."
 
 * Sep 28
 
