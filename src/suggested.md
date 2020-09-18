@@ -395,9 +395,6 @@ https://www.genetics.org/content/215/2/497.abstract
 [wang20:plog]:
 https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008552
 
-[gokhman20:cell]:
-https://www.sciencedirect.com/science/article/pii/S0092867419309547?casa_token=ELt7WwOV6moAAAAA:a_t_5Kb2N51gqrDjr3qKtLkCYyc1OVzIybi78NBVrbY0K9c0xHB8kJQW8sLF5c0wopUCcSo-yg
-
 [galtier20:g]:
 https://www.genetics.org/content/early/2020/08/24/genetics.120.303622 
 
