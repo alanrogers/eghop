@@ -49,15 +49,16 @@ other primates.
    patterns of population movement, interaction, and replacement in
    sub-Saharan Africa. Presenter: Ke Wang and Stephan Schiffels.
 
-    * "Here, we report genome-wide data from 20 ancient sub-Saharan
-      African individuals, including the first reported ancient DNA from
-      the DRC, Uganda, and Botswana. These data demonstrate the
+    * "We report genome-wide data from 20 ancient sub-Saharan African
+      individuals, including the first reported ancient DNA from the
+      DRC, Uganda, and Botswana. These data demonstrate the
       contraction of diverse, once contiguous hunter-gatherer
       populations, and suggest the resistance to interaction with
       incoming pastoralists of delayed-return foragers in aquatic
       environments. ... In Botswana, we show that Bantu ancestry
-      post-dates admixture between pastoralists and foragers, suggesting
-      an earlier spread of pastoralism than farming to southern Africa."
+      post-dates admixture between pastoralists and foragers,
+      suggesting an earlier spread of pastoralism than farming to
+      southern Africa."
 
 * Sep 21 [Gokhman, et al. 2019][gokhman20:cell] Reconstructing Denisovan
 anatomy using DNA methylation maps. Presenter: David Gokhman.
