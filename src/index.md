@@ -60,7 +60,7 @@ other primates.
       an earlier spread of pastoralism than farming to southern Africa."
 
 * Sep 21 [Gokhman, et al. 2019][gokhman20:cell] Reconstructing Denisovan
-Anatomy Using DNA Methylation Maps. Presenter: David Gokhman.
+anatomy using DNA methylation maps. Presenter: David Gokhman.
 
   * "We present a method for reconstructing skeletal morphology using
   DNA methylation patterns. We suggest that Denisovans likely shared
