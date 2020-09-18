@@ -4,7 +4,7 @@
 
 Welcome to eghop, a journal club on the evolutionary genetics of
 humans and other primates. We meet weekly by Zoom. During the Fall
-semester of 2020, we'll meet at noon
+semester of 2020, we'll meet Mondays at noon
 [Mountain time](https://en.wikipedia.org/wiki/Mountain_Time_Zone).
 
 Each week, we discuss a recent publication or preprint on the
