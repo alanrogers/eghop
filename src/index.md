@@ -74,7 +74,28 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
   reconstruct anatomical features, including some that do not survive
   in the fossil record."
 
-* Sep 28
+* Sep 28 [Bergstrom et al. 2020][bergstrom20:s] Insights into human genetic
+   variation and population history from 929 diverse
+   genomes. Presenter: Anders Bergstrom.
+
+   * A study of 929 high coverage genomes from 54 diverse populations.
+   "Populations in central and southern Africa, the Americas, and
+   Oceania each harbor tens to hundreds of thousands of private,
+   common genetic variants. Most of these variants arose as new
+   mutations rather than through archaic introgression, except in
+   Oceanian populations, where many private variants derive from
+   Denisovan admixture. ... We estimate that the genetic separation
+   between present-day human populations occurred mostly within the
+   past 250,000 years. However, these early separations were gradual
+   in nature and shaped by protracted gene flow. ... Most populations
+   expanded in size over the past 10,000 years, but hunter-gatherer
+   groups did not. ... The low diversity among the Neanderthal
+   haplotypes segregating in present-day populations indicates that,
+   while more than one Neanderthal individual must have contributed
+   genetic material to modern humans, there was likely only one major
+   episode of admixture. By contrast, Denisovan haplotype diversity
+   reflects a more complex history involving more than one episode of
+   admixture."
 
 * Oct 05
 
@@ -104,3 +125,6 @@ https://advances.sciencemag.org/content/6/24/eaaz0183.abstract
 
 [gokhman20:cell]:
 https://www.sciencedirect.com/science/article/pii/S0092867419309547?casa_token=ELt7WwOV6moAAAAA:a_t_5Kb2N51gqrDjr3qKtLkCYyc1OVzIybi78NBVrbY0K9c0xHB8kJQW8sLF5c0wopUCcSo-y
+
+[bergstrom20:s]:
+https://science.sciencemag.org/content/367/6484/eaay5012.abstract?casa_token=8u4TIciulh8AAAAA:t_v5lDpHNE9v9sliSlZhzfwuvvg1bhLyyGkBrV7fJl-tbYgtgI0CAEVrqJWSPhBsjydI6PqXBVQR

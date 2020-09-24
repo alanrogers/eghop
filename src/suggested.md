@@ -57,28 +57,6 @@
     sufficient genetic variability for long-term survival and might be
     larger than currently recognized."
 
-1. [Bergstrom et al. 2020][bergstrom20:s] Insights into human genetic
-   variation and population history from 929 diverse genomes.
-
-   * A study of 929 high coverage genomes from 54 diverse populations.
-   "Populations in central and southern Africa, the Americas, and
-   Oceania each harbor tens to hundreds of thousands of private,
-   common genetic variants. Most of these variants arose as new
-   mutations rather than through archaic introgression, except in
-   Oceanian populations, where many private variants derive from
-   Denisovan admixture. ... We estimate that the genetic separation
-   between present-day human populations occurred mostly within the
-   past 250,000 years. However, these early separations were gradual
-   in nature and shaped by protracted gene flow. ... Most populations
-   expanded in size over the past 10,000 years, but hunter-gatherer
-   groups did not. ... The low diversity among the Neanderthal
-   haplotypes segregating in present-day populations indicates that,
-   while more than one Neanderthal individual must have contributed
-   genetic material to modern humans, there was likely only one major
-   episode of admixture. By contrast, Denisovan haplotype diversity
-   reflects a more complex history involving more than one episode of
-   admixture."
-
 1. [Hubisz, Williams, and Siepel. 2020][hubisz20:plog] Mapping gene
    flow between ancient hominins through demography-aware inference of
    the ancestral recombination graph. 
@@ -385,9 +363,6 @@ https://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1008895
 
 [mafessoni20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2020.03.12.988956v1
-
-[bergstrom20:s]:
-https://science.sciencemag.org/content/367/6484/eaay5012.abstract?casa_token=8u4TIciulh8AAAAA:t_v5lDpHNE9v9sliSlZhzfwuvvg1bhLyyGkBrV7fJl-tbYgtgI0CAEVrqJWSPhBsjydI6PqXBVQR
 
 [tashkent20:g]:
 https://www.genetics.org/content/215/2/497.abstract
