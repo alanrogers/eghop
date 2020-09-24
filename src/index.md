@@ -97,7 +97,35 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
    reflects a more complex history involving more than one episode of
    admixture."
 
-* Oct 05
+* Oct 05 [O'Toole, Hurst, and McLysaught. 2018][otoole18:mbe] Faster
+  evolving primate genes are more likely to duplicate. Presenter: ?
+
+ * "An attractive and long-standing hypothesis regarding the evolution
+   of genes after duplication posits that the duplication event
+   creates new evolutionary possibilities by releasing a copy of the
+   gene from constraint. Apparent support was found in numerous
+   analyses, particularly, the observation of higher rates of
+   evolution in duplicated as compared with singleton genes. Could it,
+   instead, be that more duplicable genes (owing to mutation,
+   fixation, or retention biases) are intrinsically faster evolving?
+   To uncouple the measurement of rates of evolution from the
+   determination of duplicate or singleton status, we measure the
+   rates of evolution in singleton genes in outgroup primate lineages
+   but classify these genes as to whether they have duplicated or not
+   in a crown group of great apes. We find that rates of evolution are
+   higher in duplicable genes prior to the duplication event. In part
+   this is owing to a negative correlation between coding sequence
+   length and rate of evolution, coupled with a bias toward smaller
+   genes being more duplicable. The effect is masked by difference in
+   expression rate between duplicable genes and
+   singletons. Additionally, in contradiction to the classical
+   assumption, we find no convincing evidence for an increase in dN/dS
+   after duplication, nor for rate asymmetry between duplicates. We
+   conclude that high rates of evolution of duplicated genes are not
+   solely a consequence of the duplication event, but are rather a
+   predictor of duplicability. These results are consistent with a
+   model in which successful gene duplication events in mammals are
+   skewed toward events of minimal phenotypic impact."
 
 * Oct 12
 
@@ -128,3 +156,6 @@ https://www.sciencedirect.com/science/article/pii/S0092867419309547?casa_token=E
 
 [bergstrom20:s]:
 https://science.sciencemag.org/content/367/6484/eaay5012.abstract?casa_token=8u4TIciulh8AAAAA:t_v5lDpHNE9v9sliSlZhzfwuvvg1bhLyyGkBrV7fJl-tbYgtgI0CAEVrqJWSPhBsjydI6PqXBVQR
+
+[otoole18:mbe]:
+https://academic.oup.com/mbe/article/35/1/107/4554431

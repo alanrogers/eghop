@@ -1,34 +1,5 @@
 # Suggested readings
 
-1. [O'Toole, Hurst, and McLysaught. 2018][otoole18:mbe] Faster
-  evolving primate genes are more likely to duplicate.
-
- * "An attractive and long-standing hypothesis regarding the evolution
-   of genes after duplication posits that the duplication event
-   creates new evolutionary possibilities by releasing a copy of the
-   gene from constraint. Apparent support was found in numerous
-   analyses, particularly, the observation of higher rates of
-   evolution in duplicated as compared with singleton genes. Could it,
-   instead, be that more duplicable genes (owing to mutation,
-   fixation, or retention biases) are intrinsically faster evolving?
-   To uncouple the measurement of rates of evolution from the
-   determination of duplicate or singleton status, we measure the
-   rates of evolution in singleton genes in outgroup primate lineages
-   but classify these genes as to whether they have duplicated or not
-   in a crown group of great apes. We find that rates of evolution are
-   higher in duplicable genes prior to the duplication event. In part
-   this is owing to a negative correlation between coding sequence
-   length and rate of evolution, coupled with a bias toward smaller
-   genes being more duplicable. The effect is masked by difference in
-   expression rate between duplicable genes and
-   singletons. Additionally, in contradiction to the classical
-   assumption, we find no convincing evidence for an increase in dN/dS
-   after duplication, nor for rate asymmetry between duplicates. We
-   conclude that high rates of evolution of duplicated genes are not
-   solely a consequence of the duplication event, but are rather a
-   predictor of duplicability. These results are consistent with a
-   model in which successful gene duplication events in mammals are
-   skewed toward events of minimal phenotypic impact."
 
 1. [Tashkent et al. 2020][tashkent20:g] Analysis of haplotypic
    variation and deletion polymorphisms point to multiple archaic
@@ -393,9 +364,6 @@ https://academic.oup.com/mbe/article/37/1/183/5570178
 
 [parreira20:h]:
 https://www.nature.com/articles/s41437-020-0345-5
-
-[otoole18:mbe]:
-https://academic.oup.com/mbe/article/35/1/107/4554431
 
 [fernandes20:nee]:
 https://www.nature.com/articles/s41559-020-1102-0
