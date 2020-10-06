@@ -130,7 +130,7 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
 
 * Oct 12 [Hubisz, Williams, and Siepel. 2020][hubisz20:plog] Mapping gene
    flow between ancient hominins through demography-aware inference of
-   the ancestral recombination graph. Presenter: ?
+   the ancestral recombination graph. Presenter: Melissa Hubisz
 
   * "We present a major extension of the ARGweaver algorithm, called
     ARGweaver-D, which can infer local genetic relationships under a
