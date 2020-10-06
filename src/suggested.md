@@ -28,24 +28,6 @@
     sufficient genetic variability for long-term survival and might be
     larger than currently recognized."
 
-1. [Hubisz, Williams, and Siepel. 2020][hubisz20:plog] Mapping gene
-   flow between ancient hominins through demography-aware inference of
-   the ancestral recombination graph. 
-
-  * "We present a major extension of the ARGweaver algorithm, called
-    ARGweaver-D, which can infer local genetic relationships under a
-    user-defined demographic model that includes population splits and
-    migration events. ... We identify 3% of the Neanderthal genome
-    that is putatively introgressed from ancient humans, and estimate
-    that the gene flow occurred between 200-300kya. We find no
-    convincing evidence that negative selection acted against these
-    regions. Finally, we predict that 1% of the Denisovan genome was
-    introgressed from an unsequenced, but highly diverged, archaic
-    hominin ancestor. About 15% of these “super-archaic”
-    regions—comprising at least about 4Mb—were, in turn, introgressed
-    into modern humans and continue to exist in the genomes of people
-    alive today." 
-
 1. [Betti et al. 2020][betti20:n] Climate shaped how Neolithic
    farmers and European hunter-gatherers interacted after a major
    slowdown from 6,100 BCE to 4,500 BCE.
@@ -328,9 +310,6 @@ https://www.nature.com/articles/s41598-020-66867-0
 
 [sinding20:s]:
 https://science.sciencemag.org/content/368/6498/1495.abstract
-
-[hubisz20:plog]:
-https://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1008895&fbclid=IwAR0sx3T1_92BQHUShlaY_oBV3LK3yZbgOz6K-RI6Pce4fIYUgSbaRDkemE0
 
 [mafessoni20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2020.03.12.988956v1

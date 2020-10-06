@@ -98,7 +98,8 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
    admixture."
 
 * Oct 05 [O'Toole, Hurst, and McLysaught. 2018][otoole18:mbe] Faster
-  evolving primate genes are more likely to duplicate. Presenter: ?
+  evolving primate genes are more likely to duplicate. Presenter: Alan
+  Rogers with Laurence Hurst.
 
  * "An attractive and long-standing hypothesis regarding the evolution
    of genes after duplication posits that the duplication event
@@ -127,7 +128,23 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
    model in which successful gene duplication events in mammals are
    skewed toward events of minimal phenotypic impact."
 
-* Oct 12
+* Oct 12 [Hubisz, Williams, and Siepel. 2020][hubisz20:plog] Mapping gene
+   flow between ancient hominins through demography-aware inference of
+   the ancestral recombination graph. Presenter: ?
+
+  * "We present a major extension of the ARGweaver algorithm, called
+    ARGweaver-D, which can infer local genetic relationships under a
+    user-defined demographic model that includes population splits and
+    migration events. ... We identify 3% of the Neanderthal genome
+    that is putatively introgressed from ancient humans, and estimate
+    that the gene flow occurred between 200-300kya. We find no
+    convincing evidence that negative selection acted against these
+    regions. Finally, we predict that 1% of the Denisovan genome was
+    introgressed from an unsequenced, but highly diverged, archaic
+    hominin ancestor. About 15% of these “super-archaic”
+    regions—comprising at least about 4Mb—were, in turn, introgressed
+    into modern humans and continue to exist in the genomes of people
+    alive today." 
 
 * Oct 19
 
@@ -159,3 +176,6 @@ https://science.sciencemag.org/content/367/6484/eaay5012.abstract?casa_token=8u4
 
 [otoole18:mbe]:
 https://academic.oup.com/mbe/article/35/1/107/4554431
+
+[hubisz20:plog]:
+https://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1008895&fbclid=IwAR0sx3T1_92BQHUShlaY_oBV3LK3yZbgOz6K-RI6Pce4fIYUgSbaRDkemE0
