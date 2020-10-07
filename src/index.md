@@ -128,7 +128,16 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
    model in which successful gene duplication events in mammals are
    skewed toward events of minimal phenotypic impact."
 
-* Oct 12 
+* Oct 12 [Rinker et al. 2020][rinker20:nee] Neanderthal introgression
+   reintroduced functional ancestral alleles lost in Eurasian
+   populations.
+
+    * "Our study reveals that Neanderthal introgression reintroduced
+      thousands of lost ancestral variants with gene regulatory activity
+      and that these RAs [reintroduced alleles] were more tolerated than
+      NDAs [Neanderthal-derived alleles]. Thus, RAs and their distinct
+      evolutionary histories must be considered when evaluating the
+      effects of introgression."
 
 * Oct 19
 
@@ -179,3 +188,6 @@ https://academic.oup.com/mbe/article/35/1/107/4554431
 
 [hubisz20:plog]:
 https://journals.plos.org/plosgenetics/article?id=10.1371%2Fjournal.pgen.1008895&fbclid=IwAR0sx3T1_92BQHUShlaY_oBV3LK3yZbgOz6K-RI6Pce4fIYUgSbaRDkemE0
+
+[rinker20:nee]:
+https://www.nature.com/articles/s41559-020-1261-z

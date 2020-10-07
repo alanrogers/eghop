@@ -68,17 +68,6 @@
     for human polymorphisms that predispose to recurrent copy number
     variants associated with neurodevelopmental disease." 
 
-1. [Rinker et al. 2020][rinker20:nee] Neanderthal introgression
-   reintroduced functional ancestral alleles lost in Eurasian
-   populations.
-
-    * "Our study reveals that Neanderthal introgression reintroduced
-      thousands of lost ancestral variants with gene regulatory activity
-      and that these RAs [reintroduced alleles] were more tolerated than
-      NDAs [Neanderthal-derived alleles]. Thus, RAs and their distinct
-      evolutionary histories must be considered when evaluating the
-      effects of introgression."
-
 1. [Peischi and Excoffier. 2015][peischi15:me] Expansion load:
 recessive mutations and the role of standing genetic variation.
 
@@ -277,9 +266,6 @@ recessive mutations and the role of standing genetic variation.
       the ancestors of sled dogs and precontact American dogs. However,
       gene flow between sled dogs and wolves likely stopped before ∼9500
       years ago."
-
-[rinker20:nee]:
-https://www.nature.com/articles/s41559-020-1261-z
 
 [betti20:n]:
 https://www.nature.com/articles/s41562-020-0897-7
