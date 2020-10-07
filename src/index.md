@@ -128,7 +128,11 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
    model in which successful gene duplication events in mammals are
    skewed toward events of minimal phenotypic impact."
 
-* Oct 12 [Hubisz, Williams, and Siepel. 2020][hubisz20:plog] Mapping gene
+* Oct 12 
+
+* Oct 19
+
+* Oct 26 [Hubisz, Williams, and Siepel. 2020][hubisz20:plog] Mapping gene
    flow between ancient hominins through demography-aware inference of
    the ancestral recombination graph. Presenter: Melissa Hubisz
 
@@ -145,10 +149,6 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
     regions—comprising at least about 4Mb—were, in turn, introgressed
     into modern humans and continue to exist in the genomes of people
     alive today." 
-
-* Oct 19
-
-* Oct 26
 
 * Nov 02
 
