@@ -130,7 +130,7 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
 
 * Oct 12 [Rinker et al. 2020][rinker20:nee] Neanderthal introgression
    reintroduced functional ancestral alleles lost in Eurasian
-   populations.
+   populations. Presenter: Tony Capra.
 
     * "Our study reveals that Neanderthal introgression reintroduced
       thousands of lost ancestral variants with gene regulatory activity
