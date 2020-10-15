@@ -142,7 +142,22 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
       evolutionary histories must be considered when evaluating the
       effects of introgression."
 
-* Oct 19
+* Oct 19 [Porubsky et al. 2020][porubsky20:ng] Recurrent inversion toggling
+  and great ape genome evolution. Presenter: David Porubsky.
+
+  * "the X chromosome is most enriched (2.5-fold) for inversions, on
+    the basis of its size and duplication content. There is an excess
+    of differentially expressed primate genes near the breakpoints of
+    large (>100 kilobases (kb)) inversions but not smaller events. We
+    show that when great ape lineage-specific duplications emerge,
+    they preferentially (approximately 75%) occur in an inverted
+    orientation compared to that at their ancestral locus. We
+    construct megabase-pair scale haplotypes for individual
+    chromosomes and identify 23 genomic regions that have recurrently
+    toggled between a direct and an inverted state over 15 million
+    years. The direct orientation is most frequently the derived state
+    for human polymorphisms that predispose to recurrent copy number
+    variants associated with neurodevelopmental disease." 
 
 * Oct 26 [Hubisz, Williams, and Siepel. 2020][hubisz20:plog] Mapping gene
    flow between ancient hominins through demography-aware inference of
@@ -197,3 +212,6 @@ https://www.nature.com/articles/s41559-020-1261-z
 
 [rinker20:biorxiv]:
 https://www.biorxiv.org/content/biorxiv/early/2019/11/15/533257.full.pdf
+
+[porubsky20:ng]:
+https://www.nature.com/articles/s41588-020-0646-x

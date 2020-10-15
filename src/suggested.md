@@ -51,23 +51,6 @@
   populations, with around 1% of ancestry dating to divergences older
   than a million years ago."
 
-1. [Porubsky et al. 2020][porubsky20:ng] Recurrent inversion toggling
-  and great ape genome evolution.
-
-  * "the X chromosome is most enriched (2.5-fold) for inversions, on
-    the basis of its size and duplication content. There is an excess
-    of differentially expressed primate genes near the breakpoints of
-    large (>100 kilobases (kb)) inversions but not smaller events. We
-    show that when great ape lineage-specific duplications emerge,
-    they preferentially (approximately 75%) occur in an inverted
-    orientation compared to that at their ancestral locus. We
-    construct megabase-pair scale haplotypes for individual
-    chromosomes and identify 23 genomic regions that have recurrently
-    toggled between a direct and an inverted state over 15 million
-    years. The direct orientation is most frequently the derived state
-    for human polymorphisms that predispose to recurrent copy number
-    variants associated with neurodevelopmental disease." 
-
 1. [Peischi and Excoffier. 2015][peischi15:me] Expansion load:
 recessive mutations and the role of standing genetic variation.
 
@@ -314,9 +297,6 @@ https://www.nature.com/articles/s41467-020-18418-4
 
 [peischi15:me]:
 https://onlinelibrary.wiley.com/doi/full/10.1111/mec.13154?casa_token=z0DDFCt5kyEAAAAA%3AQGtGPXOttZnSydrX6XabMB5ODbnggn7PCrkOT1wItwcMDo82iv5tyfXfYStld5oL5FhgKw4EZENa
-
-[porubsky20:ng]:
-https://www.nature.com/articles/s41588-020-0646-x
 
 [yin20:nsr]:
 https://www.nature.com/articles/s41598-020-59110-3
