@@ -177,7 +177,15 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
     into modern humans and continue to exist in the genomes of people
     alive today." 
 
-* Nov 02
+* Nov 02 [Galtier and Rouselle. 2020][galtier20:g] How much does Ne vary
+  among species? Presenter: Nicolas Galtier
+
+  * "We assess the magnitude of variation in drift power among species
+    of animals via its effect on the mutation load. ... We estimate
+    that the power of drift varies by a factor of at least 500 between
+    large-Ne and small-Ne species of animals, i.e., an order of
+    magnitude more than the among-species variation in genetic
+    diversity."
 
 * Nov 09
 
@@ -215,3 +223,6 @@ https://www.biorxiv.org/content/biorxiv/early/2019/11/15/533257.full.pdf
 
 [porubsky20:ng]:
 https://www.nature.com/articles/s41588-020-0646-x
+
+[galtier20:g]:
+https://www.genetics.org/content/early/2020/08/24/genetics.120.303622 

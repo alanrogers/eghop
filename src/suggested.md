@@ -109,16 +109,6 @@ recessive mutations and the role of standing genetic variation.
   deleterious mutations per individual remains nearly constant across
   the species range."
 
-1. [Galtier and Rouselle. 2020][galtier20:g] How much does Ne vary
-  among species?
-
-  * "We assess the magnitude of variation in drift power among species
-    of animals via its effect on the mutation load. ... We estimate
-    that the power of drift varies by a factor of at least 500 between
-    large-Ne and small-Ne species of animals, i.e., an order of
-    magnitude more than the among-species variation in genetic
-    diversity."
-
 1. [Yin et al. 2020][yin20:nsr] The draft genome of mandrill
   (Mandrillus sphinx): An Old World monkey.
 
@@ -335,9 +325,6 @@ https://www.genetics.org/content/215/2/497.abstract
 
 [wang20:plog]:
 https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008552
-
-[galtier20:g]:
-https://www.genetics.org/content/early/2020/08/24/genetics.120.303622 
 
 [byrne20:ng]:
 https://www.nature.com/articles/s41467-020-18418-4
