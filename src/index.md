@@ -189,7 +189,7 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
     magnitude more than the among-species variation in genetic
     diversity."
 
-* Nov 09
+* Nov 09 Cancelled
 
 * Nov 16
 
