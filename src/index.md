@@ -191,11 +191,41 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
 
 * Nov 09 Cancelled
 
-* Nov 16
+* Nov 16 [Tashkent et al. 2020][tashkent20:g] Analysis of haplotypic
+   variation and deletion polymorphisms point to multiple archaic
+   introgression events, including from Altai Neanderthal
+   lineage. Presenters: 
+
+  * "We present a comprehensive analysis of the unusually divergent
+    haplotypes in the Eurasian genomes and show that they can be
+    traced back to multiple introgression events. In parallel, we
+    document hundreds of deletion polymorphisms shared with
+    Neanderthals. A locus-specific analysis of one such shared
+    deletion suggests the existence of a direct introgression event
+    from the Altai Neanderthal lineage into the ancestors of extant
+    East Asian populations."
+
 
 * Nov 23
 
-* Nov 30
+* Nov 30 [Petr et al. 2020][petr20:biorxiv] The evolutionary history of
+   Neandertal and Denisovan Y chromosomes. Presenters: Martin Petr and
+   Janet Kelso.
+
+  * "We find that the Denisovan Y chromosomes split around 700
+    thousand years ago (kya) from a lineage shared by Neandertal and
+    modern human Y chromosomes, which diverged from each other around
+    370 kya. The phylogenetic relationships of archaic and modern
+    human Y chromosomes therefore differ from population relationships
+    inferred from their autosomal genomes, and mirror the
+    relationships observed on the level of mitochondrial DNA. This
+    provides strong evidence that gene flow from an early lineage
+    related to modern humans resulted in the replacement of both the
+    mitochondrial and Y chromosomal gene pools in late
+    Neandertals. Although unlikely under neutrality, we show that this
+    replacement is plausible if the low effective population size of
+    Neandertals resulted in an increased genetic load in their Y
+    chromosomes and mitochondrial DNA relative to modern humans." 
 
 * Dec 07
 
@@ -234,3 +264,9 @@ https://www.biorxiv.org/content/10.1101/861849v4
 
 [galtier20:PCIEvolBiol]:
 https://evolbiol.peercommunityin.org/public/rec?id=228
+
+[tashkent20:g]:
+https://www.genetics.org/content/215/2/497.abstract
+
+[petr20:biorxiv]:
+https://www.biorxiv.org/content/10.1101/2020.03.09.983445v1.abstract

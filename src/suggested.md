@@ -17,38 +17,6 @@
     Greenland. Additionally, we see substantial ancestry from
     elsewhere in Europe entering Scandinavia during the Viking Age."
 
-1. [Petr et al. 2020][petr20:biorxiv] The evolutionary history of
-   Neandertal and Denisovan Y chromosomes.
-
-  * "We find that the Denisovan Y chromosomes split around 700
-    thousand years ago (kya) from a lineage shared by Neandertal and
-    modern human Y chromosomes, which diverged from each other around
-    370 kya. The phylogenetic relationships of archaic and modern
-    human Y chromosomes therefore differ from population relationships
-    inferred from their autosomal genomes, and mirror the
-    relationships observed on the level of mitochondrial DNA. This
-    provides strong evidence that gene flow from an early lineage
-    related to modern humans resulted in the replacement of both the
-    mitochondrial and Y chromosomal gene pools in late
-    Neandertals. Although unlikely under neutrality, we show that this
-    replacement is plausible if the low effective population size of
-    Neandertals resulted in an increased genetic load in their Y
-    chromosomes and mitochondrial DNA relative to modern humans." 
-
-
-1. [Tashkent et al. 2020][tashkent20:g] Analysis of haplotypic
-   variation and deletion polymorphisms point to multiple archaic
-   introgression events, including from Altai Neanderthal lineage.
-
-  * "We present a comprehensive analysis of the unusually divergent
-    haplotypes in the Eurasian genomes and show that they can be
-    traced back to multiple introgression events. In parallel, we
-    document hundreds of deletion polymorphisms shared with
-    Neanderthals. A locus-specific analysis of one such shared
-    deletion suggests the existence of a direct introgression event
-    from the Altai Neanderthal lineage into the ancestors of extant
-    East Asian populations."
-
 1. [Brandt et al 2018][brandt18:g3] The Effect of Balancing Selection
    on Population Differentiation: A Study with HLA Genes.
 
@@ -320,9 +288,6 @@ https://science.sciencemag.org/content/368/6498/1495.abstract
 [mafessoni20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2020.03.12.988956v1
 
-[tashkent20:g]:
-https://www.genetics.org/content/215/2/497.abstract
-
 [wang20:plog]:
 https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008552
 
@@ -349,9 +314,6 @@ https://www.nature.com/articles/s41559-020-1102-0
 
 [margaryan20:n]:
 https://www.nature.com/articles/s41586-020-2688-8
-
-[petr20:biorxiv]:
-https://www.biorxiv.org/content/10.1101/2020.03.09.983445v1.abstract
 
 [brandt18:g3]:
 https://www.g3journal.org/content/8/8/2805.short
