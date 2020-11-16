@@ -194,7 +194,7 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
 * Nov 16 [Tashkent et al. 2020][tashkent20:g] Analysis of haplotypic
    variation and deletion polymorphisms point to multiple archaic
    introgression events, including from Altai Neanderthal
-   lineage. Presenters: 
+   lineage. Presenters: Omer Gokcumen and Ozgur Taskent.
 
   * "We present a comprehensive analysis of the unusually divergent
     haplotypes in the Eurasian genomes and show that they can be
