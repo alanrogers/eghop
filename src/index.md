@@ -205,8 +205,7 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
     from the Altai Neanderthal lineage into the ancestors of extant
     East Asian populations."
 
-
-* Nov 23
+* Nov 23 Cancelled
 
 * Nov 30 [Petr et al. 2020][petr20:biorxiv] The evolutionary history of
    Neandertal and Denisovan Y chromosomes. Presenters: Martin Petr and
