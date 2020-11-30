@@ -207,9 +207,9 @@ anatomy using DNA methylation maps. Presenter: David Gokhman.
 
 * Nov 23 Cancelled
 
-* Nov 30 [Petr et al. 2020][petr20:biorxiv] The evolutionary history of
-   Neandertal and Denisovan Y chromosomes. Presenters: Martin Petr and
-   Janet Kelso.
+* Nov 30 [Petr et al. 2020][petr20:science] [bioRxiv][petr20:biorxiv]
+   The evolutionary history of Neandertal and Denisovan Y
+   chromosomes. Presenters: Martin Petr and Janet Kelso.
 
   * "We find that the Denisovan Y chromosomes split around 700
     thousand years ago (kya) from a lineage shared by Neandertal and
@@ -269,3 +269,6 @@ https://www.genetics.org/content/215/2/497.abstract
 
 [petr20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2020.03.09.983445v1.abstract
+
+[petr20:science]:
+https://science.sciencemag.org/content/369/6511/1653.full
