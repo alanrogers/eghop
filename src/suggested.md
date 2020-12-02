@@ -1,22 +1,5 @@
 # Suggested readings
 
-1. [Margaryan et al. 2020][margaryan20:n] Population genomics of the
-   Viking world.
-
-  * "The maritime expansion of Scandinavian populations during the
-    Viking Age (about ad 750–1050) was a far-flung transformation in
-    world history1,2. Here we sequenced the genomes of 442 humans from
-    archaeological sites across Europe and Greenland (to a median
-    depth of about 1×) to understand the global influence of this
-    expansion. We find the Viking period involved gene flow into
-    Scandinavia from the south and east. We observe genetic structure
-    within Scandinavia, with diversity hotspots in the south and
-    restricted gene flow within Scandinavia. We find evidence for a
-    major influx of Danish ancestry into England; a Swedish influx
-    into the Baltic; and Norwegian influx into Ireland, Iceland and
-    Greenland. Additionally, we see substantial ancestry from
-    elsewhere in Europe entering Scandinavia during the Viking Age."
-
 1. [Brandt et al 2018][brandt18:g3] The Effect of Balancing Selection
    on Population Differentiation: A Study with HLA Genes.
 
@@ -311,9 +294,6 @@ https://www.nature.com/articles/s41437-020-0345-5
 
 [fernandes20:nee]:
 https://www.nature.com/articles/s41559-020-1102-0
-
-[margaryan20:n]:
-https://www.nature.com/articles/s41586-020-2688-8
 
 [brandt18:g3]:
 https://www.g3journal.org/content/8/8/2805.short
