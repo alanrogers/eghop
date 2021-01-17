@@ -4,7 +4,9 @@
 
 Welcome to eghop, a journal club on the evolutionary genetics of
 humans and other primates. We meet weekly by Zoom. We have not yet
-decided on a time for the Spring semester of 2021.
+decided on a time for the Spring semester of 2021. If you're
+interested, get in touch at the email below, and you'll get a chance
+to vote on the meeting time.
 <!--
 During the Fall
 semester of 2020, we'll meet Mondays at noon
