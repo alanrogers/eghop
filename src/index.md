@@ -3,14 +3,10 @@
 ## Introduction
 
 Welcome to eghop, a journal club on the evolutionary genetics of
-humans and other primates. We meet weekly by Zoom. We have not yet
-decided on a time for the Spring semester of 2021. If you're
-interested, get in touch at the email below, and you'll get a chance
-to vote on the meeting time.
-<!--
-During the Fall
-semester of 2020, we'll meet Mondays at noon
-[Mountain time](https://en.wikipedia.org/wiki/Mountain_Time_Zone).-->
+humans and other primates. We meet weekly by Zoom. During the Spring
+semester of 2021, we'll meet Tuesdays at 3PM
+[Mountain time](https://en.wikipedia.org/wiki/Mountain_Time_Zone),
+which is UTC-7 until March 14, then UTC-6.
 
 Each week, we discuss a recent publication or preprint on the
 evolutionary genetics of humans or other primates. Everyone is
@@ -50,7 +46,33 @@ other primates.
 
 ## Schedule
 
-The schedule for Spring 2021 is still a work in progress.
+* Jan 26
+
+* Feb 02
+
+* Feb 09
+
+* Feb 16
+
+* Feb 23
+
+* Mar 02
+
+* Mar 09
+
+* Mar 16
+
+* Mar 23
+
+* Mar 30
+
+* Apr 06
+
+* Apr 13
+
+* Apr 20
+
+* Apr 27
 
 [gform]:
 https://docs.google.com/forms/d/e/1FAIpQLSeC-CnDFiBVV5Zw_SR-CrBe5zYSijwkM1aiIqKeDjeQX2eRQQ/viewform?usp=sf_link
