@@ -1,5 +1,25 @@
 # Suggested readings
 
+1. [Saag et al 2021][saag21:sa] Genetic ancestry changes in Stone to
+   Bronze Age transition in the East European plain.
+
+  * "The transition from Stone to Bronze Age in Central and Western
+    Europe was a period of major population movements originating from
+    the Ponto-Caspian Steppe. Here, we report new genome-wide sequence
+    data from 30 individuals north of this area, from the understudied
+    western part of present-day Russia, including 3 Stone Age
+    hunter-gatherers (10,800 to 4250 cal BCE) and 26 Bronze Age
+    farmers from the Corded Ware complex Fatyanovo Culture (2900 to
+    2050 cal BCE). We show that Eastern hunter-gatherer ancestry was
+    present in northwestern Russia already from around 10,000
+    BCE. Furthermore, we see a change in ancestry with the arrival of
+    farming—Fatyanovo Culture individuals were genetically similar to
+    other Corded Ware cultures, carrying a mixture of Steppe and
+    European early farmer ancestry. Thus, they likely originate from a
+    fast migration toward the northeast from somewhere near modern-day
+    Ukraine—the closest area where these ancestries coexisted from
+    around 3000 BCE."
+
 1. [Brandt et al 2018][brandt18:g3] The Effect of Balancing Selection
    on Population Differentiation: A Study with HLA Genes.
 
@@ -297,3 +317,6 @@ https://www.nature.com/articles/s41559-020-1102-0
 
 [brandt18:g3]:
 https://www.g3journal.org/content/8/8/2805.short
+
+[saag21:sa]:
+https://advances.sciencemag.org/content/7/4/eabd6535?fbclid=IwAR1_AkLD_XlR2_nUOQ7L70SAaj7vnCB-bl0Dw31yZB6GS8G31WoEiAY_k3w
