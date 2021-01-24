@@ -1,5 +1,30 @@
 # Suggested readings
 
+1. [Jacobs et al 2019][jacobs19:cell] Multiple deeply divergent
+  Denisovan ancestries in Papuans.
+
+  * "Modern Papuans carry hundreds of gene variants from two deeply
+    divergent Denisovan lineages that separated over 350 thousand
+    years ago. Spatial and temporal structure among these lineages
+    suggest that introgression from one of these Denisovan groups
+    predominantly took place east of the Wallace line and continued
+    until near the end of the Pleistocene. A third Denisovan lineage
+    occurs in modern East Asians. This regional mosaic suggests
+    considerable complexity in archaic contact, with modern humans
+    interbreeding with multiple Denisovan groups that were
+    geographically isolated from each other over deep evolutionary
+    time."
+
+1. [Andirko et al. 2021][andirko21:biorxiv] Fine-grained temporal
+   mapping of derived high-frequency variants supports the mosaic
+   nature of the evolution of Homo sapiens. 
+
+  * These authors summarize published data on the time of origin of
+    high-frequency alleles in several categories: those under positive
+    selection, those introgressed from archaics, and regulatory genes
+    active in the brain. Several of these age distributions are
+    bimodal, with one mode at 300-500 kya.
+
 1. [Saag et al 2021][saag21:sa] Genetic ancestry changes in Stone to
    Bronze Age transition in the East European plain.
 
@@ -20,6 +45,13 @@
     Ukraine—the closest area where these ancestries coexisted from
     around 3000 BCE."
 
+1. [Vizzari et al 2020][vizzari20:genes] A revised model of
+    anatomically modern human expansions out of Africa through a
+    machine learning approximate bayesian computation approach.
+
+  * The authors argue that modern humans emigrated out of Africa in
+    two waves, first at 74 kya and later at 46 kya.
+
 1. [Brandt et al 2018][brandt18:g3] The Effect of Balancing Selection
    on Population Differentiation: A Study with HLA Genes.
 
@@ -30,7 +62,43 @@
     regions. Such increased population differentiation at HLA genes
     for recently diverged population pairs was reproduced in
     simulations of overdominant selection, as long as the fitness of
-    the homozygotes differs between the diverging populations." 
+    the homozygotes differs between the diverging populations."
+
+1. [Elliot and Crespi 2015][elliot2015:prsb] Genetic recapitulation of
+   human pre-eclampsia risk during convergent evolution of reduced
+   placental invasiveness in eutherian mammals. (Should we exclude
+   this paper on the basis of its age?)
+
+  * Pre-eclampsia is a disease of human pregnancy that results from
+    reduced invasiveness of the placenta. These authors study the
+    evolution of reduced placental invasiveness in 18 species of
+    mammal and find effects on 1254 genes. Of these, 199 seem to be
+    the targets of natural selection during evolutionary change in
+    placental invasiveness. These genes may also underlie human
+    placental disorders.
+
+1. [Orkin et al 2020][orkin20:biorxiv] The evolution of ecological
+   flexibility, large brains, and long lives: capuchin monkey genomics
+   revealed with fecalFACS.
+
+  * "We compared genomes of capuchin populations from tropical dry
+    forests and lowland rainforests and identified population
+    divergence in genes involved in water balance, kidney function,
+    and metabolism. Through a comparative genomics approach spanning a
+    wide diversity of mammals, we identified genes under positive
+    selection associated with longevity and brain development."
+
+1. [Raia et al. 2020][raia20:oneearth] Past extinctions of Homo
+   species coincided with increased vulnerability to climatic change.
+
+   * "H. erectus, H. heidelbergensis, and H. neanderthalensis, lost a
+     significant portion of their climatic niche space just before
+     extinction, with no corresponding reduction in physical
+     range. This reduction coincides with increased vulnerability to
+     climate change. In the case of Neanderthals, the increased
+     extinction risk was probably exacerbated by competition with
+     H. sapiens. This study suggests that climate change was the
+     primary factor in the extinction of Homo species." 
 
 1. [van der Valk et al 2019][vanderValk19:mbe] The genome of the
    endangered Dryas monkey provides new insights into the evolutionary
@@ -320,3 +388,21 @@ https://www.g3journal.org/content/8/8/2805.short
 
 [saag21:sa]:
 https://advances.sciencemag.org/content/7/4/eabd6535?fbclid=IwAR1_AkLD_XlR2_nUOQ7L70SAaj7vnCB-bl0Dw31yZB6GS8G31WoEiAY_k3w
+
+[elliot2015:prsb]:
+https://royalsocietypublishing.org/doi/10.1098/rstb.2014.0069
+
+[orkin20:biorxiv]:
+https://www.biorxiv.org/content/10.1101/366112v6.full
+
+[jacobs19:cell]:
+https://www.cell.com/cell/fulltext/S0092-8674(19)30218-1
+
+[andirko21:biorxiv]:
+https://www.biorxiv.org/content/10.1101/2021.01.22.427608v1
+
+[vizzari20:genes]:
+https://www.mdpi.com/2073-4425/11/12/1510
+
+[raia20:oneearth]:
+https://www.sciencedirect.com/science/article/pii/S2590332220304760
