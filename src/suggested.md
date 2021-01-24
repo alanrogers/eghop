@@ -47,7 +47,7 @@
 
 1. [Vizzari et al 2020][vizzari20:genes] A revised model of
     anatomically modern human expansions out of Africa through a
-    machine learning approximate bayesian computation approach.
+    machine learning approximate Bayesian computation approach.
 
   * The authors argue that modern humans emigrated out of Africa in
     two waves, first at 74 kya and later at 46 kya.
