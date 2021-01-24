@@ -15,6 +15,16 @@
     geographically isolated from each other over deep evolutionary
     time."
 
+1. [Dominguez-Andres et al. 2021][dominguezandres21:biorxiv] Evolution
+   of cytokine production capacity in ancient and modern European
+   populations. 
+
+  * "We observed that the advent of the Neolithic was a turning point
+    for immune-mediated traits in Europeans, favoring those alleles
+    linked with the development of tolerance against intracellular
+    pathogens and promoting inflammatory responses against
+    extracellular microbes." 
+
 1. [Andirko et al. 2021][andirko21:biorxiv] Fine-grained temporal
    mapping of derived high-frequency variants supports the mosaic
    nature of the evolution of Homo sapiens. 
@@ -406,3 +416,6 @@ https://www.mdpi.com/2073-4425/11/12/1510
 
 [raia20:oneearth]:
 https://www.sciencedirect.com/science/article/pii/S2590332220304760
+
+[dominguezandres21:biorxiv]:
+https://www.biorxiv.org/content/10.1101/2021.01.14.426690v1
