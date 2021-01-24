@@ -52,8 +52,8 @@
   * The authors argue that modern humans emigrated out of Africa in
     two waves, first at 74 kya and later at 46 kya.
 
-1. [Brandt et al 2018][brandt18:g3] The Effect of Balancing Selection
-   on Population Differentiation: A Study with HLA Genes.
+1. [Brandt et al 2018][brandt18:g3] The effect of balancing selection
+   on population differentiation: a study with HLA genes.
 
   * "Theory predicts that balancing selection reduces population
     differentiation, as measured by FST...However, in pairs of closely
