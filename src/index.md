@@ -46,7 +46,21 @@ other primates.
 
 ## Schedule
 
-* Jan 26
+* Jan 26 [Jacobs et al 2019][jacobs19:cell] Multiple deeply divergent
+  Denisovan ancestries in Papuans. Presenter: Alan Rogers.
+
+  * "Modern Papuans carry hundreds of gene variants from two deeply
+    divergent Denisovan lineages that separated over 350 thousand
+    years ago. Spatial and temporal structure among these lineages
+    suggest that introgression from one of these Denisovan groups
+    predominantly took place east of the Wallace line and continued
+    until near the end of the Pleistocene. A third Denisovan lineage
+    occurs in modern East Asians. This regional mosaic suggests
+    considerable complexity in archaic contact, with modern humans
+    interbreeding with multiple Denisovan groups that were
+    geographically isolated from each other over deep evolutionary
+    time."
+
 
 * Feb 02
 
@@ -77,3 +91,5 @@ other primates.
 [gform]:
 https://docs.google.com/forms/d/e/1FAIpQLSeC-CnDFiBVV5Zw_SR-CrBe5zYSijwkM1aiIqKeDjeQX2eRQQ/viewform?usp=sf_link
 
+[jacobs19:cell]:
+https://www.cell.com/cell/fulltext/S0092-8674(19)30218-1

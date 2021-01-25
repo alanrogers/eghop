@@ -1,20 +1,5 @@
 # Suggested readings
 
-1. [Jacobs et al 2019][jacobs19:cell] Multiple deeply divergent
-  Denisovan ancestries in Papuans.
-
-  * "Modern Papuans carry hundreds of gene variants from two deeply
-    divergent Denisovan lineages that separated over 350 thousand
-    years ago. Spatial and temporal structure among these lineages
-    suggest that introgression from one of these Denisovan groups
-    predominantly took place east of the Wallace line and continued
-    until near the end of the Pleistocene. A third Denisovan lineage
-    occurs in modern East Asians. This regional mosaic suggests
-    considerable complexity in archaic contact, with modern humans
-    interbreeding with multiple Denisovan groups that were
-    geographically isolated from each other over deep evolutionary
-    time."
-
 1. [Dominguez-Andres et al. 2021][dominguezandres21:biorxiv] Evolution
    of cytokine production capacity in ancient and modern European
    populations. 
@@ -404,9 +389,6 @@ https://royalsocietypublishing.org/doi/10.1098/rstb.2014.0069
 
 [orkin20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/366112v6.full
-
-[jacobs19:cell]:
-https://www.cell.com/cell/fulltext/S0092-8674(19)30218-1
 
 [andirko21:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2021.01.22.427608v1
