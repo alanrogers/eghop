@@ -1,5 +1,22 @@
 # Suggested readings
 
+1. [Immel et al. 2021][immel21:commbiol] Genome-wide study of a
+   Neolithic Wartberg grave community reveals distinct HLA variation
+   and hunter-gatherer ancestry.
+
+  * "The Wartberg culture (WBC, 3500-2800 BCE) dates to the Late
+    Neolithic period, a time of important demographic and cultural
+    transformations in western Europe. We performed genome-wide
+    analyses of 42 individuals who were interred in a WBC collective
+    burial in Niedertiefenbach, Germany (3300-3200cal. BCE). The
+    results showed that the farming population of Niedertiefenbach
+    carried a surprisingly large hunter-gatherer ancestry com- ponent
+    (34–58%). This component was most likely introduced during the
+    cultural transfor- mation that led to the WBC. In addition, the
+    Niedertiefenbach individuals exhibited a distinct human leukocyte
+    antigen gene pool, possibly reflecting an immune response that was
+    geared towards detecting viral infections."
+
 1. [Dominguez-Andres et al. 2021][dominguezandres21:biorxiv] Evolution
    of cytokine production capacity in ancient and modern European
    populations. 
@@ -401,3 +418,6 @@ https://www.sciencedirect.com/science/article/pii/S2590332220304760
 
 [dominguezandres21:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2021.01.14.426690v1
+
+[immel21:commbiol]:
+https://www.nature.com/articles/s42003-020-01627-4?fbclid=IwAR3NKeZG6sC7XzQkZ1DxlbyjGxOOzQu7JOBuztxZAAY0SV83Fxg0vtiFsWE
