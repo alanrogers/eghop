@@ -62,7 +62,15 @@ other primates.
     time."
 
 
-* Feb 02
+* Feb 02 [Wang et al. 2020][wang20:plog] Tracking human population structure
+  through time from whole genome sequences.
+
+  * These authors introduce a new method for inferring the deep
+  history of population size and admixture. Using this method, they
+  "detect traces of extremely deep ancestry between some African
+  populations, with around 1% of ancestry dating to divergences older
+  than a million years ago."
+
 
 * Feb 09
 
@@ -93,3 +101,6 @@ https://docs.google.com/forms/d/e/1FAIpQLSeC-CnDFiBVV5Zw_SR-CrBe5zYSijwkM1aiIqKe
 
 [jacobs19:cell]:
 https://www.cell.com/cell/fulltext/S0092-8674(19)30218-1
+
+[wang20:plog]:
+https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008552

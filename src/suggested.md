@@ -140,15 +140,6 @@
        in these regions might have favoured the contact between the two
        groups."
 
-1. [Wang et al. 2020][wang20:plog] Tracking human population structure
-  through time from whole genome sequences.
-
-  * These authors introduce a new method for inferring the deep
-  history of population size and admixture. Using this method, they
-  "detect traces of extremely deep ancestry between some African
-  populations, with around 1% of ancestry dating to divergences older
-  than a million years ago."
-
 1. [Peischi and Excoffier. 2015][peischi15:me] Expansion load:
 recessive mutations and the role of standing genetic variation.
 
@@ -370,9 +361,6 @@ https://science.sciencemag.org/content/368/6498/1495.abstract
 
 [mafessoni20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2020.03.12.988956v1
-
-[wang20:plog]:
-https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008552
 
 [byrne20:ng]:
 https://www.nature.com/articles/s41467-020-18418-4
