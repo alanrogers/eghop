@@ -76,19 +76,6 @@
     simulations of overdominant selection, as long as the fitness of
     the homozygotes differs between the diverging populations."
 
-1. [Elliot and Crespi 2015][elliot2015:prsb] Genetic recapitulation of
-   human pre-eclampsia risk during convergent evolution of reduced
-   placental invasiveness in eutherian mammals. (Should we exclude
-   this paper on the basis of its age?)
-
-  * Pre-eclampsia is a disease of human pregnancy that results from
-    reduced invasiveness of the placenta. These authors study the
-    evolution of reduced placental invasiveness in 18 species of
-    mammal and find effects on 1254 genes. Of these, 199 seem to be
-    the targets of natural selection during evolutionary change in
-    placental invasiveness. These genes may also underlie human
-    placental disorders.
-
 1. [Orkin et al 2020][orkin20:biorxiv] The evolution of ecological
    flexibility, large brains, and long lives: capuchin monkey genomics
    revealed with fecalFACS.
@@ -139,29 +126,6 @@
        as estimated from ancient DNA, suggesting that unreliable yields
        in these regions might have favoured the contact between the two
        groups."
-
-1. [Peischi and Excoffier. 2015][peischi15:me] Expansion load:
-recessive mutations and the role of standing genetic variation.
-
-  * "Expanding populations incur a mutation burden--the so‐called
-  expansion load. ... [We find that] the loss of deleterious mutations
-  at some loci is compensated by an increase of their frequencies at
-  other loci. The frequency of deleterious homozygotes therefore
-  increases along the expansion axis, whereas the average number of
-  deleterious mutations per individual remains nearly constant across
-  the species range."
-
-1. [Yin et al. 2020][yin20:nsr] The draft genome of mandrill
-  (Mandrillus sphinx): An Old World monkey.
-
-  * "We found that 17 genes in the mandrill that have been associated
-    with disease phenotypes in human such as Lung cancer, cranial
-    volume and asthma, barbored amino acids changing mutations. Gene
-    family analyses revealed expansion of several genes, and several
-    genes associated with stress environmental adaptation and innate
-    immunity responses exhibited signatures of positive selection. In
-    summary, we established the first draft genome of  the mandrill of
-    value for studies on evolution and human health." 
 
 1. [He et al. 2019][he19:nc] Long-read assembly of the Chinese rhesus
    macaque genome and identification of ape-specific structural
@@ -252,16 +216,6 @@ recessive mutations and the role of standing genetic variation.
       fertility. This may explain their high frequency in modern human
       populations."
 
-1. [Xu et al. 2017.][xu20:mbe] Archaic hominin introgression in Africa
-  contributes to functional salivary MUC7 genetic variation.
-
-    * Unlike previous authors, these authors find no association between
-      the MUC7 salivary protein and asthma. On the other hand, this
-      locus is associated with the oral microbiome. Furthermore, one
-      haplotype within this locus seems to have originated in an unknown
-      but deeply-divergent (superarchaic?) population, which
-      introgressed into the ancestors of modern Africans.
-
 1. [Hernandez, Shenk, and Perry. 2020][hernandez20:biorxiv] Factors
    influencing taxonomic unevenness in scientific research: A
    mixed-methods case study of non-human primate genomic sequence data
@@ -344,9 +298,6 @@ https://www.biorxiv.org/content/10.1101/427583v2?%3Fcollection=
 [zeberg20:mbe]:
 https://academic.oup.com/mbe/advance-article/doi/10.1093/molbev/msaa119/5841671
 
-[xu20:mbe]:
-https://academic.oup.com/mbe/article/34/10/2704/3988100
-
 [hernandez20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2020.04.16.045450v1
 
@@ -364,12 +315,6 @@ https://www.biorxiv.org/content/10.1101/2020.03.12.988956v1
 
 [byrne20:ng]:
 https://www.nature.com/articles/s41467-020-18418-4
-
-[peischi15:me]:
-https://onlinelibrary.wiley.com/doi/full/10.1111/mec.13154?casa_token=z0DDFCt5kyEAAAAA%3AQGtGPXOttZnSydrX6XabMB5ODbnggn7PCrkOT1wItwcMDo82iv5tyfXfYStld5oL5FhgKw4EZENa
-
-[yin20:nsr]:
-https://www.nature.com/articles/s41598-020-59110-3
 
 [he19:nc]:
 https://www.nature.com/articles/s41467-019-12174-w
@@ -389,9 +334,6 @@ https://www.g3journal.org/content/8/8/2805.short
 [saag21:sa]:
 https://advances.sciencemag.org/content/7/4/eabd6535?fbclid=IwAR1_AkLD_XlR2_nUOQ7L70SAaj7vnCB-bl0Dw31yZB6GS8G31WoEiAY_k3w
 
-[elliot2015:prsb]:
-https://royalsocietypublishing.org/doi/10.1098/rstb.2014.0069
-
 [orkin20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/366112v6.full
 
@@ -409,3 +351,4 @@ https://www.biorxiv.org/content/10.1101/2021.01.14.426690v1
 
 [immel21:commbiol]:
 https://www.nature.com/articles/s42003-020-01627-4?fbclid=IwAR3NKeZG6sC7XzQkZ1DxlbyjGxOOzQu7JOBuztxZAAY0SV83Fxg0vtiFsWE
+
