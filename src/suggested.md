@@ -108,22 +108,6 @@
        in these regions might have favoured the contact between the two
        groups."
 
-1. [He et al. 2019][he19:nc] Long-read assembly of the Chinese rhesus
-   macaque genome and identification of ape-specific structural
-   variants. 
-
-  * "We present a high-quality de novo genome assembly (rheMacS) of
-    the Chinese rhesus macaque (Macaca mulatta) using long-read
-    sequencing and multiplatform scaffolding approaches. Compared to
-    the current Indian rhesus macaque reference genome (rheMac8),
-    rheMacS increases sequence contiguity 75-fold, closing 21,940 of
-    the remaining assembly gaps (60.8 Mbp). We improve gene annotation
-    by generating more than two million full-length transcripts from
-    ten different tissues by long-read RNA sequencing. We sequence
-    resolve 53,916 structural variants (96% novel) and identify 17,000
-    ape-specific structural variants (ASSVs) based on comparison to
-    ape genomes." 
-
 1. [Zen, Huber, Davies, and Lohmuller, 2020][zen20:biorxiv] Greater
    strength of selection and higher proportion of beneficial amino
    acid changing mutations in humans compared to mice and Drosophila
@@ -261,9 +245,6 @@ https://www.biorxiv.org/content/10.1101/2020.03.12.988956v1
 
 [byrne20:ng]:
 https://www.nature.com/articles/s41467-020-18418-4
-
-[he19:nc]:
-https://www.nature.com/articles/s41467-019-12174-w
 
 [vanderValk19:mbe]:
 https://academic.oup.com/mbe/article/37/1/183/5570178
