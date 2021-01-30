@@ -1,5 +1,19 @@
 # Suggested readings
 
+1. [Betti et al. 2020][betti20:n] Climate shaped how Neolithic
+   farmers and European hunter-gatherers interacted after a major
+   slowdown from 6,100 BCE to 4,500 BCE.
+
+    * "We identify four axes of [European Neolithic] expansion and
+       observe a slowdown along three axes when crossing the same
+       climatic threshold. This threshold reflects the quality of the
+       growing season, suggesting that Near Eastern crops might have
+       struggled under more challenging climatic conditions. This same
+       threshold also predicts the mixing of farmers and hunter-gatherers
+       as estimated from ancient DNA, suggesting that unreliable yields
+       in these regions might have favoured the contact between the two
+       groups."
+
 1. [Immel et al. 2021][immel21:commbiol] Genome-wide study of a
    Neolithic Wartberg grave community reveals distinct HLA variation
    and hunter-gatherer ancestry.
@@ -10,16 +24,6 @@
      Europeans. The authors argue that their immune systems were
      specialized for defense against viruses.
 
-1. [Dominguez-Andres et al. 2021][dominguezandres21:biorxiv] Evolution
-   of cytokine production capacity in ancient and modern European
-   populations. 
-
-  * "We observed that the advent of the Neolithic was a turning point
-    for immune-mediated traits in Europeans, favoring those alleles
-    linked with the development of tolerance against intracellular
-    pathogens and promoting inflammatory responses against
-    extracellular microbes." 
-
 1. [Andirko et al. 2021][andirko21:biorxiv] Fine-grained temporal
    mapping of derived high-frequency variants supports the mosaic
    nature of the evolution of Homo sapiens. 
@@ -29,6 +33,16 @@
     selection, those introgressed from archaics, and regulatory genes
     active in the brain. Several of these age distributions are
     bimodal, with one mode at 300-500 kya.
+
+1. [Dominguez-Andres et al. 2021][dominguezandres21:biorxiv] Evolution
+   of cytokine production capacity in ancient and modern European
+   populations. 
+
+  * "We observed that the advent of the Neolithic was a turning point
+    for immune-mediated traits in Europeans, favoring those alleles
+    linked with the development of tolerance against intracellular
+    pathogens and promoting inflammatory responses against
+    extracellular microbes." 
 
 1. [Saag et al 2021][saag21:sa] Genetic ancestry changes in Stone to
    Bronze Age transition in the East European plain.
@@ -57,18 +71,6 @@
   * The authors argue that modern humans emigrated out of Africa in
     two waves, first at 74 kya and later at 46 kya.
 
-1. [Brandt et al 2018][brandt18:g3] The effect of balancing selection
-   on population differentiation: a study with HLA genes.
-
-  * "Theory predicts that balancing selection reduces population
-    differentiation, as measured by FST...However, in pairs of closely
-    related populations, where genome-wide differentiation is low,
-    differentiation at HLA is higher than in other genomic
-    regions. Such increased population differentiation at HLA genes
-    for recently diverged population pairs was reproduced in
-    simulations of overdominant selection, as long as the fitness of
-    the homozygotes differs between the diverging populations."
-
 1. [Orkin et al 2020][orkin20:biorxiv] The evolution of ecological
    flexibility, large brains, and long lives: capuchin monkey genomics
    revealed with fecalFACS.
@@ -79,6 +81,24 @@
     and metabolism. Through a comparative genomics approach spanning a
     wide diversity of mammals, we identified genes under positive
     selection associated with longevity and brain development."
+
+1. [Fernandes et al. 2020][fernandes20:nee] The spread of steppe and
+   Iranian-related ancestry in the islands of the western
+   Mediterranean.
+
+  * "We generated genome-wide ancient-DNA data from the Balearic
+   Islands, Sicily and Sardinia, increasing the number of individuals
+   with reported data from 5 to 66. The oldest individual from the
+   Balearic Islands (~2400 bc) carried ancestry from steppe
+   pastoralists that probably derived from west-to-east migration from
+   Iberia, although two later Balearic individuals had less ancestry
+   from steppe pastoralists. In Sicily, steppe pastoralist ancestry
+   arrived by ~2200 bc. ... Major immigration into Sardinia began in
+   the first millennium bc and, at present, no more than 56–62% of
+   Sardinian ancestry is from its first farmers. This value is lower
+   than previous estimates, highlighting that Sardinia, similar to
+   every other region in Europe, has been a stage for major movement
+   and mixtures of people." 
 
 1. [van der Valk et al 2019][vanderValk19:mbe] The genome of the
    endangered Dryas monkey provides new insights into the evolutionary
@@ -94,19 +114,26 @@
     sufficient genetic variability for long-term survival and might be
     larger than currently recognized."
 
-1. [Betti et al. 2020][betti20:n] Climate shaped how Neolithic
-   farmers and European hunter-gatherers interacted after a major
-   slowdown from 6,100 BCE to 4,500 BCE.
+1. [Sinding et al. 2020.][sinding20:s] Arctic-adapted dogs emerged at
+   the Pleistocene-Holocene transition.
 
-    * "We identify four axes of [European Neolithic] expansion and
-       observe a slowdown along three axes when crossing the same
-       climatic threshold. This threshold reflects the quality of the
-       growing season, suggesting that Near Eastern crops might have
-       struggled under more challenging climatic conditions. This same
-       threshold also predicts the mixing of farmers and hunter-gatherers
-       as estimated from ancient DNA, suggesting that unreliable yields
-       in these regions might have favoured the contact between the two
-       groups."
+    * "This analysis indicates that sled dogs represent an ancient
+      lineage going back at least 9500 years and that wolves bred with
+      the ancestors of sled dogs and precontact American dogs. However,
+      gene flow between sled dogs and wolves likely stopped before ∼9500
+      years ago."
+
+1. [Brandt et al 2018][brandt18:g3] The effect of balancing selection
+   on population differentiation: a study with HLA genes.
+
+  * "Theory predicts that balancing selection reduces population
+    differentiation, as measured by FST...However, in pairs of closely
+    related populations, where genome-wide differentiation is low,
+    differentiation at HLA is higher than in other genomic
+    regions. Such increased population differentiation at HLA genes
+    for recently diverged population pairs was reproduced in
+    simulations of overdominant selection, as long as the fitness of
+    the homozygotes differs between the diverging populations."
 
 1. [Zen, Huber, Davies, and Lohmuller, 2020][zen20:biorxiv] Greater
    strength of selection and higher proportion of beneficial amino
@@ -191,33 +218,6 @@
       of gorillas, chimpanzees, Old World monkeys, and modern humans. We
       show that gorilla and chimpanzee microbiomes fluctuate with
       seasonal rainfall patterns and frugivory."
-
-1. [Fernandes et al. 2020][fernandes20:nee] The spread of steppe and
-   Iranian-related ancestry in the islands of the western
-   Mediterranean.
-
-  * "We generated genome-wide ancient-DNA data from the Balearic
-   Islands, Sicily and Sardinia, increasing the number of individuals
-   with reported data from 5 to 66. The oldest individual from the
-   Balearic Islands (~2400 bc) carried ancestry from steppe
-   pastoralists that probably derived from west-to-east migration from
-   Iberia, although two later Balearic individuals had less ancestry
-   from steppe pastoralists. In Sicily, steppe pastoralist ancestry
-   arrived by ~2200 bc. ... Major immigration into Sardinia began in
-   the first millennium bc and, at present, no more than 56–62% of
-   Sardinian ancestry is from its first farmers. This value is lower
-   than previous estimates, highlighting that Sardinia, similar to
-   every other region in Europe, has been a stage for major movement
-   and mixtures of people." 
-
-1. [Sinding et al. 2020.][sinding20:s] Arctic-adapted dogs emerged at
-   the Pleistocene-Holocene transition.
-
-    * "This analysis indicates that sled dogs represent an ancient
-      lineage going back at least 9500 years and that wolves bred with
-      the ancestors of sled dogs and precontact American dogs. However,
-      gene flow between sled dogs and wolves likely stopped before ∼9500
-      years ago."
 
 [betti20:n]:
 https://www.nature.com/articles/s41562-020-0897-7
