@@ -87,18 +87,6 @@
     wide diversity of mammals, we identified genes under positive
     selection associated with longevity and brain development."
 
-1. [Raia et al. 2020][raia20:oneearth] Past extinctions of Homo
-   species coincided with increased vulnerability to climatic change.
-
-   * "H. erectus, H. heidelbergensis, and H. neanderthalensis, lost a
-     significant portion of their climatic niche space just before
-     extinction, with no corresponding reduction in physical
-     range. This reduction coincides with increased vulnerability to
-     climate change. In the case of Neanderthals, the increased
-     extinction risk was probably exacerbated by competition with
-     H. sapiens. This study suggests that climate change was the
-     primary factor in the extinction of Homo species." 
-
 1. [van der Valk et al 2019][vanderValk19:mbe] The genome of the
    endangered Dryas monkey provides new insights into the evolutionary
    history of the Vervets.
@@ -237,25 +225,6 @@
       show that gorilla and chimpanzee microbiomes fluctuate with
       seasonal rainfall patterns and frugivory."
 
-1. [Cawthon et al. 2020.][cawthon20:sr] Germline mutation rates in
-   young adults predict longevity and reproductive lifespan.
-
-    * "The paper is the first report showing that differences in the
-      levels of mutation accumulation in young healthy adults predict
-      remaining lifespan in both sexes, and remaining reproductive span
-      in women. It is also the first report showing that mutation
-      accumulation accelerates in females after menarche, and it
-      presents data suggesting that mutation accumulation accelerates in
-      males after puberty as well. These results support two
-      long-standing theories about the nature of aging: 1) aging is due,
-      at least in part, to mutation accumulation in adults contributing
-      to cell and tissue dysfunction, onset of chronic diseases, and
-      ultimately death; and 2) aging begins in adolescence, possibly
-      triggered by puberty, consistent with the evolutionary biology
-      theory that the force of natural selection to maintain robust
-      health should begin to decline once the reproductive stage of life
-      is attained."
-
 1. [Fernandes et al. 2020][fernandes20:nee] The spread of steppe and
    Iranian-related ancestry in the islands of the western
    Mediterranean.
@@ -304,9 +273,6 @@ https://www.biorxiv.org/content/10.1101/2020.04.16.045450v1
 [hicks20:nc]:
 https://www.nature.com/articles/s41467-018-04204-w
 
-[cawthon20:sr]:
-https://www.nature.com/articles/s41598-020-66867-0
-
 [sinding20:s]:
 https://science.sciencemag.org/content/368/6498/1495.abstract
 
@@ -342,9 +308,6 @@ https://www.biorxiv.org/content/10.1101/2021.01.22.427608v1
 
 [vizzari20:genes]:
 https://www.mdpi.com/2073-4425/11/12/1510
-
-[raia20:oneearth]:
-https://www.sciencedirect.com/science/article/pii/S2590332220304760
 
 [dominguezandres21:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2021.01.14.426690v1
