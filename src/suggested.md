@@ -64,13 +64,6 @@
     Ukraine—the closest area where these ancestries coexisted from
     around 3000 BCE."
 
-1. [Vizzari et al 2020][vizzari20:genes] A revised model of
-    anatomically modern human expansions out of Africa through a
-    machine learning approximate Bayesian computation approach.
-
-  * The authors argue that modern humans emigrated out of Africa in
-    two waves, first at 74 kya and later at 46 kya.
-
 1. [Orkin et al 2020][orkin20:biorxiv] The evolution of ecological
    flexibility, large brains, and long lives: capuchin monkey genomics
    revealed with fecalFACS.
@@ -266,9 +259,6 @@ https://www.biorxiv.org/content/10.1101/366112v6.full
 
 [andirko21:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2021.01.22.427608v1
-
-[vizzari20:genes]:
-https://www.mdpi.com/2073-4425/11/12/1510
 
 [dominguezandres21:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2021.01.14.426690v1

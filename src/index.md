@@ -72,7 +72,12 @@ other primates.
   than a million years ago."
 
 
-* Feb 09
+* Feb 09 [Vizzari et al 2020][vizzari20:genes] A revised model of
+    anatomically modern human expansions out of Africa through a
+    machine learning approximate Bayesian computation approach.
+
+  * The authors argue that modern humans emigrated out of Africa in
+    two waves, first at 74 kya and later at 46 kya.
 
 * Feb 16
 
@@ -104,3 +109,6 @@ https://www.cell.com/cell/fulltext/S0092-8674(19)30218-1
 
 [wang20:plog]:
 https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008552
+
+[vizzari20:genes]:
+https://www.mdpi.com/2073-4425/11/12/1510
