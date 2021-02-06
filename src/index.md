@@ -38,12 +38,6 @@ time to vote on the suggested readings.
 
 Click [here](past.html) for a history of past journal club meetings.
 
-## Labs recruiting graduate students
-
-Click [here](gradop.html) for a list of labs recruiting graduate
-students with an interest in the evolutionary genetics of humans and
-other primates.
-
 ## Schedule
 
 * Jan 26 [Jacobs et al 2019][jacobs19:cell] Multiple deeply divergent
