@@ -73,7 +73,15 @@ Click [here](past.html) for a history of past journal club meetings.
   * The authors argue that modern humans emigrated out of Africa in
     two waves, first at 74 kya and later at 46 kya.
 
-* Feb 16
+* Feb 16 [Andirko et al. 2021][andirko21:biorxiv] Fine-grained temporal
+   mapping of derived high-frequency variants supports the mosaic
+   nature of the evolution of Homo sapiens. 
+
+  * These authors summarize published data on the time of origin of
+    high-frequency alleles in several categories: those under positive
+    selection, those introgressed from archaics, and regulatory genes
+    active in the brain. Several of these age distributions are
+    bimodal, with one mode at 300-500 kya.
 
 * Feb 23
 
@@ -106,3 +114,7 @@ https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008552
 
 [vizzari20:genes]:
 https://www.mdpi.com/2073-4425/11/12/1510
+
+
+[andirko21:biorxiv]:
+https://www.biorxiv.org/content/10.1101/2021.01.22.427608v1

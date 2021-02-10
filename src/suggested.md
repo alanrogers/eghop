@@ -1,5 +1,22 @@
 # Suggested readings
 
+1. [Sun et al. 2021][sun21:pnas] Ancient DNA and multimethod dating
+   confirm the late arrival of anatomically modern humans in southern
+   China.
+
+  * "Genetic studies show the founders of all living non-African
+    populations expanded from Africa ca. 65 to 45 ka. This “late
+    dispersal” model has been challenged by the discovery of isolated
+    AMHs at caves in southern China suggested as early as ca. 120
+    ka. We assessed the age of early AMH fossils from five caves in
+    this region using ancient DNA analysis and a multimethod
+    geological dating strategy. We found they were much younger than
+    previously suggested, with some remains dating to the Holocene
+    owing to the complex depositional history at these subtropical
+    caves. Current evidence shows AMHs settled southern China within
+    the timeframe set by molecular data of less than ca. 50 to 45 ka
+    and no earlier." 
+
 1. [Betti et al. 2020][betti20:n] Climate shaped how Neolithic
    farmers and European hunter-gatherers interacted after a major
    slowdown from 6,100 BCE to 4,500 BCE.
@@ -23,16 +40,6 @@
      gatherers, and their HLA alleles were unlike those of modern
      Europeans. The authors argue that their immune systems were
      specialized for defense against viruses.
-
-1. [Andirko et al. 2021][andirko21:biorxiv] Fine-grained temporal
-   mapping of derived high-frequency variants supports the mosaic
-   nature of the evolution of Homo sapiens. 
-
-  * These authors summarize published data on the time of origin of
-    high-frequency alleles in several categories: those under positive
-    selection, those introgressed from archaics, and regulatory genes
-    active in the brain. Several of these age distributions are
-    bimodal, with one mode at 300-500 kya.
 
 1. [Dominguez-Andres et al. 2021][dominguezandres21:biorxiv] Evolution
    of cytokine production capacity in ancient and modern European
@@ -257,12 +264,11 @@ https://advances.sciencemag.org/content/7/4/eabd6535?fbclid=IwAR1_AkLD_XlR2_nUOQ
 [orkin20:biorxiv]:
 https://www.biorxiv.org/content/10.1101/366112v6.full
 
-[andirko21:biorxiv]:
-https://www.biorxiv.org/content/10.1101/2021.01.22.427608v1
-
 [dominguezandres21:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2021.01.14.426690v1
 
 [immel21:commbiol]:
 https://www.nature.com/articles/s42003-020-01627-4?fbclid=IwAR3NKeZG6sC7XzQkZ1DxlbyjGxOOzQu7JOBuztxZAAY0SV83Fxg0vtiFsWE
 
+[sun21:pnas]:
+https://www.pnas.org/content/118/8/e2019158118
