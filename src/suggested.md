@@ -71,17 +71,6 @@
     Ukraine—the closest area where these ancestries coexisted from
     around 3000 BCE."
 
-1. [Orkin et al 2020][orkin20:biorxiv] The evolution of ecological
-   flexibility, large brains, and long lives: capuchin monkey genomics
-   revealed with fecalFACS.
-
-  * "We compared genomes of capuchin populations from tropical dry
-    forests and lowland rainforests and identified population
-    divergence in genes involved in water balance, kidney function,
-    and metabolism. Through a comparative genomics approach spanning a
-    wide diversity of mammals, we identified genes under positive
-    selection associated with longevity and brain development."
-
 1. [Fernandes et al. 2020][fernandes20:nee] The spread of steppe and
    Iranian-related ancestry in the islands of the western
    Mediterranean.
@@ -261,9 +250,6 @@ https://www.g3journal.org/content/8/8/2805.short
 [saag21:sa]:
 https://advances.sciencemag.org/content/7/4/eabd6535?fbclid=IwAR1_AkLD_XlR2_nUOQ7L70SAaj7vnCB-bl0Dw31yZB6GS8G31WoEiAY_k3w
 
-[orkin20:biorxiv]:
-https://www.biorxiv.org/content/10.1101/366112v6.full
-
 [dominguezandres21:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2021.01.14.426690v1
 
@@ -272,3 +258,4 @@ https://www.nature.com/articles/s42003-020-01627-4?fbclid=IwAR3NKeZG6sC7XzQkZ1Dx
 
 [sun21:pnas]:
 https://www.pnas.org/content/118/8/e2019158118
+

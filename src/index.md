@@ -83,7 +83,16 @@ Click [here](past.html) for a history of past journal club meetings.
     active in the brain. Several of these age distributions are
     bimodal, with one mode at 300-500 kya.
 
-* Feb 23
+* Feb 23 [Orkin et al 2020][orkin21:pnas] [bioRxiv][orkin20:biorxiv] The
+   evolution of ecological flexibility, large brains, and long lives:
+   capuchin monkey genomics revealed with fecalFACS.
+
+  * "We compared genomes of capuchin populations from tropical dry
+    forests and lowland rainforests and identified population
+    divergence in genes involved in water balance, kidney function,
+    and metabolism. Through a comparative genomics approach spanning a
+    wide diversity of mammals, we identified genes under positive
+    selection associated with longevity and brain development."
 
 * Mar 02
 
@@ -115,6 +124,12 @@ https://journals.plos.org/plosgenetics/article?id=10.1371/journal.pgen.1008552
 [vizzari20:genes]:
 https://www.mdpi.com/2073-4425/11/12/1510
 
-
 [andirko21:biorxiv]:
 https://www.biorxiv.org/content/10.1101/2021.01.22.427608v1
+
+[orkin20:biorxiv]:
+https://www.biorxiv.org/content/10.1101/366112v6.full
+
+[orkin21:pnas]:
+https://www.pnas.org/content/118/7/e2010632118
+
