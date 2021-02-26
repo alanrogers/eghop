@@ -41,16 +41,6 @@
      Europeans. The authors argue that their immune systems were
      specialized for defense against viruses.
 
-1. [Dominguez-Andres et al. 2021][dominguezandres21:biorxiv] Evolution
-   of cytokine production capacity in ancient and modern European
-   populations. 
-
-  * "We observed that the advent of the Neolithic was a turning point
-    for immune-mediated traits in Europeans, favoring those alleles
-    linked with the development of tolerance against intracellular
-    pathogens and promoting inflammatory responses against
-    extracellular microbes." 
-
 1. [Saag et al 2021][saag21:sa] Genetic ancestry changes in Stone to
    Bronze Age transition in the East European plain.
 
@@ -249,9 +239,6 @@ https://www.g3journal.org/content/8/8/2805.short
 
 [saag21:sa]:
 https://advances.sciencemag.org/content/7/4/eabd6535?fbclid=IwAR1_AkLD_XlR2_nUOQ7L70SAaj7vnCB-bl0Dw31yZB6GS8G31WoEiAY_k3w
-
-[dominguezandres21:biorxiv]:
-https://www.biorxiv.org/content/10.1101/2021.01.14.426690v1
 
 [immel21:commbiol]:
 https://www.nature.com/articles/s42003-020-01627-4?fbclid=IwAR3NKeZG6sC7XzQkZ1DxlbyjGxOOzQu7JOBuztxZAAY0SV83Fxg0vtiFsWE

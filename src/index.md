@@ -94,7 +94,16 @@ Click [here](past.html) for a history of past journal club meetings.
     wide diversity of mammals, we identified genes under positive
     selection associated with longevity and brain development."
 
-* Mar 02
+* Mar 02 [Dominguez-Andres et al. 2021][dominguezandres21:biorxiv] Evolution
+   of cytokine production capacity in ancient and modern European
+   populations. 
+
+  * "We observed that the advent of the Neolithic was a turning point
+    for immune-mediated traits in Europeans, favoring those alleles
+    linked with the development of tolerance against intracellular
+    pathogens and promoting inflammatory responses against
+    extracellular microbes." 
+
 
 * Mar 09
 
@@ -132,4 +141,7 @@ https://www.biorxiv.org/content/10.1101/366112v6.full
 
 [orkin21:pnas]:
 https://www.pnas.org/content/118/7/e2010632118
+
+[dominguezandres21:biorxiv]:
+https://www.biorxiv.org/content/10.1101/2021.01.14.426690v1
 
