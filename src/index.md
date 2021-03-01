@@ -96,7 +96,7 @@ Click [here](past.html) for a history of past journal club meetings.
 
 * Mar 02 [Dominguez-Andres et al. 2021][dominguezandres21:biorxiv] Evolution
    of cytokine production capacity in ancient and modern European
-   populations. 
+   populations. Presenter: Mihai Netea.
 
   * "We observed that the advent of the Neolithic was a turning point
     for immune-mediated traits in Europeans, favoring those alleles
