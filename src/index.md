@@ -2,6 +2,9 @@
 
 ## Introduction
 
+The eghop journal club has stopped meeting. This website will stay up
+for awhile, in case we decide to start things up again in the summer.
+
 Welcome to eghop, a journal club on the evolutionary genetics of
 humans and other primates. We meet weekly by Zoom. During the Spring
 semester of 2021, we'll meet Tuesdays at 3PM
@@ -103,23 +106,6 @@ Click [here](past.html) for a history of past journal club meetings.
     linked with the development of tolerance against intracellular
     pathogens and promoting inflammatory responses against
     extracellular microbes." 
-
-
-* Mar 09
-
-* Mar 16
-
-* Mar 23
-
-* Mar 30
-
-* Apr 06
-
-* Apr 13
-
-* Apr 20
-
-* Apr 27
 
 [gform]:
 https://docs.google.com/forms/d/e/1FAIpQLSeC-CnDFiBVV5Zw_SR-CrBe5zYSijwkM1aiIqKeDjeQX2eRQQ/viewform?usp=sf_link
