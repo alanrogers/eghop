@@ -2,14 +2,8 @@
 
 ## Introduction
 
-The eghop journal club has stopped meeting. This website will stay up
-for awhile, in case we decide to start things up again in the summer.
-
-Welcome to eghop, a journal club on the evolutionary genetics of
-humans and other primates. We meet weekly by Zoom. During the Spring
-semester of 2021, we'll meet Tuesdays at 3PM
-[Mountain time](https://en.wikipedia.org/wiki/Mountain_Time_Zone),
-which is UTC-7 until March 14, then UTC-6.
+The eghop journal club no longer meets. This website will stay up for
+awhile, in case we decide to start things up again in the summer.
 
 Each week, we discuss a recent publication or preprint on the
 evolutionary genetics of humans or other primates. Everyone is
